@@ -1,0 +1,35 @@
+select * from employee;
+select * from leave_requests;
+select * from attendence_employee;
+DESC attendence_employee;
+select Date from attendence_employee;
+
+UPDATE attendence_employee
+SET Date = DATE_FORMAT(STR_TO_DATE(Date, '%d-%m-%Y'), '%Y-%m-%d');
+
+SELECT CAST(Date AS DATE) AS converted_date
+FROM attendence_employee;
+
+ALTER TABLE attendence_employee 
+MODIFY COLUMN Date DATE;
+
+ALTER TABLE attendence_employee 
+MODIFY COLUMN Time_In Time;
+
+ALTER TABLE attendence_employee
+MODIFY COLUMN Time_Out Time;
+
+UPDATE attendence_employee
+SET Time_In = NULL
+WHERE Time_In = '00:00:00';
+
+UPDATE attendence_employee
+SET Time_Out = NULL
+WHERE Time_Out = '00:00:00';
+
+ALTER TABLE attendence_employee
+MODIFY COLUMN Total_Hours Time;
+
+UPDATE attendence_employee
+SET Total_Hours = NULL
+WHERE Total_Hours = '00:00:00';
