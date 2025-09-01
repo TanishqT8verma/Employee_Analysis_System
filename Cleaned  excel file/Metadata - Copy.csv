@@ -1,0 +1,1868 @@
+Index,Attendence_ID,employee_Id,Employee_Name,Day,Date,Time In,Time Out,Total Hours,Workstatus
+0,1,Em_101,Shruti Jain,Fri,01-11-2024,,,,
+1,2,Em_102,Ayul Jain,Fri,01-11-2024,,,,
+2,3,Em_103,Shoeb Shaikh,Fri,01-11-2024,,,,
+3,4,Em_104,Aaditya Tundele,Fri,01-11-2024,,,,
+4,5,Em_105,Neha Chouhan,Fri,01-11-2024,,,,
+5,6,Em_106,Lalit Chouhan,Fri,01-11-2024,,,,
+6,7,Em_107,Jay Mukati,Fri,01-11-2024,,,,
+7,8,Em_108,Akhil Mishra,Fri,01-11-2024,,,,
+8,9,P_101,Manish,Fri,01-11-2024,,,,
+9,10,Em_101,Shruti Jain,Sat,02-11-2024,,,,
+10,11,Em_102,Ayul Jain,Sat,02-11-2024,,,,
+11,12,Em_103,Shoeb Shaikh,Sat,02-11-2024,,,,
+12,13,Em_104,Aaditya Tundele,Sat,02-11-2024,,,,
+13,14,Em_105,Neha Chouhan,Sat,02-11-2024,,,,
+14,15,Em_106,Lalit Chouhan,Sat,02-11-2024,,,,
+15,16,Em_107,Jay Mukati,Sat,02-11-2024,,,,
+16,17,Em_108,Akhil Mishra,Sat,02-11-2024,,,,
+17,18,P_101,Manish,Sat,02-11-2024,,,,
+18,19,Em_101,Shruti Jain,Sun,03-11-2024,,,,Holiday
+19,20,Em_102,Ayul Jain,Sun,03-11-2024,,,,Holiday
+20,21,Em_103,Shoeb Shaikh,Sun,03-11-2024,,,,Holiday
+21,22,Em_104,Aaditya Tundele,Sun,03-11-2024,,,,Holiday
+22,23,Em_105,Neha Chouhan,Sun,03-11-2024,,,,Holiday
+23,24,Em_106,Lalit Chouhan,Sun,03-11-2024,,,,Holiday
+24,25,Em_107,Jay Mukati,Sun,03-11-2024,,,,Holiday
+25,26,Em_108,Akhil Mishra,Sun,03-11-2024,,,,Holiday
+26,27,P_101,Manish,Sun,03-11-2024,,,,Holiday
+27,28,Em_101,Shruti Jain,Mon,04-11-2024,10:17:00,19:27:00,09:10:00,Full Day
+28,29,Em_102,Ayul Jain,Mon,04-11-2024,10:17:00,19:27:00,09:10:00,Full Day
+29,30,Em_103,Shoeb Shaikh,Mon,04-11-2024,10:44:00,19:27:00,08:43:00,Full Day
+30,31,Em_108,Akhil Mishra,Mon,04-11-2024,,,,
+31,32,P_101,Manish,Mon,04-11-2024,,,,
+32,33,Em_104,Aaditya Tundele,Mon,04-11-2024,11:00:00,19:26:00,08:26:00,Full Day
+33,34,Em_105,Neha Chouhan,Mon,04-11-2024,,,,Leave
+34,35,Em_106,Lalit Chouhan,Mon,04-11-2024,,,,Leave
+35,36,Em_107,Jay Mukati,Mon,04-11-2024,,,,Leave
+36,37,Em_101,Shruti Jain,Tue,05-11-2024,10:11:00,19:37:00,09:26:00,Full Day
+37,38,Em_102,Ayul Jain,Tue,05-11-2024,10:11:00,19:37:00,09:26:00,Full Day
+38,39,Em_103,Shoeb Shaikh,Tue,05-11-2024,10:34:00,19:33:00,08:59:00,Full Day
+39,40,Em_104,Aaditya Tundele,Tue,05-11-2024,10:42:00,19:35:00,08:53:00,Full Day
+40,41,Em_108,Akhil Mishra,Tue,05-11-2024,,,,
+41,42,P_101,Manish,Tue,05-11-2024,,,,
+42,43,Em_105,Neha Chouhan,Tue,05-11-2024,,,,Leave
+43,44,Em_106,Lalit Chouhan,Tue,05-11-2024,,,,Leave
+44,45,Em_107,Jay Mukati,Tue,05-11-2024,13:30:00,19:30:00,06:00:00,Half Day
+45,46,Em_104,Aaditya Tundele,Wed,06-11-2024,10:18:00,19:30:00,09:12:00,Full Day
+46,47,Em_101,Shruti Jain,Wed,06-11-2024,10:20:00,19:40:00,09:20:00,Full Day
+47,48,Em_102,Ayul Jain,Wed,06-11-2024,10:20:00,19:31:00,09:11:00,Full Day
+48,49,Em_107,Jay Mukati,Wed,06-11-2024,10:29:00,19:31:00,09:02:00,Full Day
+49,50,Em_103,Shoeb Shaikh,Wed,06-11-2024,10:32:00,19:30:00,08:58:00,Full Day
+50,51,Em_108,Akhil Mishra,Wed,06-11-2024,,,,
+51,52,P_101,Manish,Wed,06-11-2024,,,,
+52,53,Em_105,Neha Chouhan,Wed,06-11-2024,,,,Leave
+53,54,Em_106,Lalit Chouhan,Wed,06-11-2024,,,,Leave
+54,55,Em_101,Shruti Jain,Thu,07-11-2024,10:02:00,20:01:00,09:59:00,Full Day
+55,56,Em_102,Ayul Jain,Thu,07-11-2024,10:02:00,19:59:00,09:57:00,Full Day
+56,57,Em_103,Shoeb Shaikh,Thu,07-11-2024,10:25:00,19:56:00,09:31:00,Full Day
+57,58,Em_106,Lalit Chouhan,Thu,07-11-2024,10:28:00,19:48:00,09:20:00,Full Day
+58,59,Em_105,Neha Chouhan,Thu,07-11-2024,10:29:00,19:48:00,09:19:00,Full Day
+59,60,Em_107,Jay Mukati,Thu,07-11-2024,10:34:00,19:48:00,09:14:00,Full Day
+60,61,Em_104,Aaditya Tundele,Thu,07-11-2024,10:39:00,19:59:00,09:20:00,Full Day
+61,62,Em_108,Akhil Mishra,Thu,07-11-2024,,,,
+62,63,P_101,Manish,Thu,07-11-2024,,,,
+63,64,Em_101,Shruti Jain,Fri,08-11-2024,10:11:00,20:00:00,09:49:00,Full Day
+64,65,Em_102,Ayul Jain,Fri,08-11-2024,10:16:00,19:59:00,09:43:00,Full Day
+65,66,Em_106,Lalit Chouhan,Fri,08-11-2024,10:20:00,19:38:00,09:18:00,Full Day
+66,67,Em_105,Neha Chouhan,Fri,08-11-2024,10:21:00,19:38:00,09:17:00,Full Day
+67,68,Em_103,Shoeb Shaikh,Fri,08-11-2024,10:27:00,18:55:00,08:28:00,Full Day
+68,69,Em_104,Aaditya Tundele,Fri,08-11-2024,10:53:00,19:43:00,08:50:00,Full Day
+69,70,Em_107,Jay Mukati,Fri,08-11-2024,10:55:00,19:35:00,08:40:00,Full Day
+70,71,Em_108,Akhil Mishra,Fri,08-11-2024,,,,
+71,72,P_101,Manish,Fri,08-11-2024,,,,
+72,73,Em_101,Shruti Jain,Sat,09-11-2024,10:16:00,19:32:00,09:16:00,Full Day
+73,74,Em_102,Ayul Jain,Sat,09-11-2024,10:16:00,19:32:00,09:16:00,Full Day
+74,75,Em_103,Shoeb Shaikh,Sat,09-11-2024,10:24:00,19:31:00,09:07:00,Full Day
+75,76,Em_105,Neha Chouhan,Sat,09-11-2024,10:28:00,19:33:00,09:05:00,Full Day
+76,77,Em_106,Lalit Chouhan,Sat,09-11-2024,10:28:00,19:23:00,08:55:00,Full Day
+77,78,Em_104,Aaditya Tundele,Sat,09-11-2024,10:30:00,19:31:00,09:01:00,Full Day
+78,79,Em_107,Jay Mukati,Sat,09-11-2024,10:40:00,19:30:00,08:50:00,Full Day
+79,80,Em_108,Akhil Mishra,Sat,09-11-2024,,,,
+80,81,P_101,Manish,Sat,09-11-2024,,,,
+81,82,Em_101,Shruti Jain,Sun,10-11-2024,,,,Holiday
+82,83,Em_102,Ayul Jain,Sun,10-11-2024,,,,Holiday
+83,84,Em_103,Shoeb Shaikh,Sun,10-11-2024,,,,Holiday
+84,85,Em_104,Aaditya Tundele,Sun,10-11-2024,,,,Holiday
+85,86,Em_105,Neha Chouhan,Sun,10-11-2024,,,,Holiday
+86,87,Em_106,Lalit Chouhan,Sun,10-11-2024,,,,Holiday
+87,88,Em_107,Jay Mukati,Sun,10-11-2024,,,,Holiday
+88,89,Em_108,Akhil Mishra,Sun,10-11-2024,,,,Holiday
+89,90,P_101,Manish,Sun,10-11-2024,,,,Holiday
+90,91,Em_101,Shruti Jain,Mon,11-11-2024,10:16:00,20:15:00,09:59:00,Full Day
+91,92,Em_103,Shoeb Shaikh,Mon,11-11-2024,10:16:00,19:36:00,09:20:00,Full Day
+92,93,Em_102,Ayul Jain,Mon,11-11-2024,10:23:00,20:15:00,09:52:00,Full Day
+93,94,Em_105,Neha Chouhan,Mon,11-11-2024,10:23:00,20:05:00,09:42:00,Full Day
+94,95,Em_106,Lalit Chouhan,Mon,11-11-2024,10:23:00,20:05:00,09:42:00,Full Day
+95,96,Em_107,Jay Mukati,Mon,11-11-2024,10:29:00,19:41:00,09:12:00,Full Day
+96,97,Em_104,Aaditya Tundele,Mon,11-11-2024,10:45:00,20:15:00,09:30:00,Full Day
+97,98,Em_108,Akhil Mishra,Mon,11-11-2024,,,,
+98,99,P_101,Manish,Mon,11-11-2024,,,,
+99,100,Em_101,Shruti Jain,Tue,12-11-2024,10:01:00,21:00:00,,Full Day
+100,101,Em_102,Ayul Jain,Tue,12-11-2024,10:01:00,21:00:00,,Full Day
+101,102,Em_103,Shoeb Shaikh,Tue,12-11-2024,10:22:00,19:31:00,09:09:00,Full Day
+102,103,Em_105,Neha Chouhan,Tue,12-11-2024,10:23:00,19:33:00,09:10:00,Full Day
+103,104,Em_106,Lalit Chouhan,Tue,12-11-2024,10:23:00,19:33:00,09:10:00,Full Day
+104,105,Em_108,Akhil Mishra,Tue,12-11-2024,,,,
+105,106,P_101,Manish,Tue,12-11-2024,,,,
+106,107,Em_104,Aaditya Tundele,Tue,12-11-2024,,,,Leave
+107,108,Em_107,Jay Mukati,Tue,12-11-2024,,,,Leave
+108,109,Em_103,Shoeb Shaikh,Wed [fire acc.],13-11-2024,,,,
+109,110,Em_107,Jay Mukati,Wed [fire acc.],13-11-2024,,,,
+110,111,Em_108,Akhil Mishra,Wed [fire acc.],13-11-2024,,,,
+111,112,P_101,Manish,Wed [fire acc.],13-11-2024,,,,
+112,113,Em_101,Shruti Jain,Wed [fire acc.],13-11-2024,13:30:00,19:30:00,06:00:00,Half Day
+113,114,Em_102,Ayul Jain,Wed [fire acc.],13-11-2024,13:30:00,19:30:00,06:00:00,Half Day
+114,115,Em_104,Aaditya Tundele,Wed [fire acc.],13-11-2024,13:30:00,19:30:00,06:00:00,Half Day
+115,116,Em_105,Neha Chouhan,Wed [fire acc.],13-11-2024,13:30:00,19:30:00,06:00:00,Half Day
+116,117,Em_106,Lalit Chouhan,Wed [fire acc.],13-11-2024,13:30:00,19:30:00,06:00:00,Half Day
+117,118,Em_103,Shoeb Shaikh,Thu,14-11-2024,10:18:00,19:30:00,09:12:00,Full Day
+118,119,Em_101,Shruti Jain,Thu,14-11-2024,10:20:00,19:36:00,09:16:00,Full Day
+119,120,Em_102,Ayul Jain,Thu,14-11-2024,10:20:00,19:36:00,09:16:00,Full Day
+120,121,Em_104,Aaditya Tundele,Thu,14-11-2024,10:30:00,19:35:00,09:05:00,Full Day
+121,122,Em_105,Neha Chouhan,Thu,14-11-2024,10:30:00,19:32:00,09:02:00,Full Day
+122,123,Em_106,Lalit Chouhan,Thu,14-11-2024,10:30:00,19:32:00,09:02:00,Full Day
+123,124,Em_108,Akhil Mishra,Thu,14-11-2024,,,,
+124,125,P_101,Manish,Thu,14-11-2024,,,,
+125,126,Em_107,Jay Mukati,Thu,14-11-2024,14:00:00,19:31:00,05:31:00,Half Day
+126,127,Em_101,Shruti Jain,Fri,15-11-2024,10:21:00,19:47:00,09:26:00,Full Day
+127,128,Em_102,Ayul Jain,Fri,15-11-2024,10:21:00,19:47:00,09:26:00,Full Day
+128,129,Em_105,Neha Chouhan,Fri,15-11-2024,10:31:00,19:32:00,09:01:00,Full Day
+129,130,Em_106,Lalit Chouhan,Fri,15-11-2024,10:31:00,19:32:00,09:01:00,Full Day
+130,131,Em_107,Jay Mukati,Fri,15-11-2024,10:31:00,19:34:00,09:03:00,Full Day
+131,132,Em_103,Shoeb Shaikh,Fri,15-11-2024,10:43:00,19:36:00,08:53:00,Full Day
+132,133,Em_108,Akhil Mishra,Fri,15-11-2024,,,,
+133,134,P_101,Manish,Fri,15-11-2024,,,,
+134,135,Em_104,Aaditya Tundele,Fri,15-11-2024,11:30:00,19:35:00,08:05:00,Full Day
+135,136,Em_101,Shruti Jain,Sat,16-11-2024,10:21:00,20:07:00,09:46:00,Full Day
+136,137,Em_102,Ayul Jain,Sat,16-11-2024,10:21:00,20:06:00,09:45:00,Full Day
+137,138,Em_103,Shoeb Shaikh,Sat,16-11-2024,10:25:00,19:32:00,09:07:00,Full Day
+138,139,Em_105,Neha Chouhan,Sat,16-11-2024,10:25:00,20:06:00,09:41:00,Full Day
+139,140,Em_106,Lalit Chouhan,Sat,16-11-2024,10:25:00,20:06:00,09:41:00,Full Day
+140,141,Em_104,Aaditya Tundele,Sat,16-11-2024,10:29:00,19:40:00,09:11:00,Full Day
+141,142,Em_107,Jay Mukati,Sat,16-11-2024,10:55:00,19:33:00,08:38:00,Full Day
+142,143,Em_108,Akhil Mishra,Sat,16-11-2024,,,,
+143,144,P_101,Manish,Sat,16-11-2024,,,,
+144,145,Em_101,Shruti Jain,Sun,17-11-2024,,,,Holiday
+145,146,Em_102,Ayul Jain,Sun,17-11-2024,,,,Holiday
+146,147,Em_103,Shoeb Shaikh,Sun,17-11-2024,,,,Holiday
+147,148,Em_104,Aaditya Tundele,Sun,17-11-2024,,,,Holiday
+148,149,Em_105,Neha Chouhan,Sun,17-11-2024,,,,Holiday
+149,150,Em_106,Lalit Chouhan,Sun,17-11-2024,,,,Holiday
+150,151,Em_107,Jay Mukati,Sun,17-11-2024,,,,Holiday
+151,152,Em_108,Akhil Mishra,Sun,17-11-2024,,,,Holiday
+152,153,P_101,Manish,Sun,17-11-2024,,,,Holiday
+153,154,Em_108,Akhil Mishra,Mon,18-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+154,155,Em_104,Aaditya Tundele,Mon,18-11-2024,10:04:00,19:30:00,09:26:00,Full Day
+155,156,Em_101,Shruti Jain,Mon,18-11-2024,10:05:00,20:18:00,10:13:00,Full Day
+156,157,Em_102,Ayul Jain,Mon,18-11-2024,10:10:00,19:46:00,09:36:00,Full Day
+157,158,Em_106,Lalit Chouhan,Mon,18-11-2024,10:23:00,19:32:00,09:09:00,Full Day
+158,159,Em_103,Shoeb Shaikh,Mon,18-11-2024,10:25:00,19:31:00,09:06:00,Full Day
+159,160,Em_105,Neha Chouhan,Mon,18-11-2024,10:25:00,19:32:00,09:07:00,Full Day
+160,161,Em_107,Jay Mukati,Mon,18-11-2024,10:30:00,19:35:00,09:05:00,Full Day
+161,162,P_101,Manish,Mon,18-11-2024,,,,
+162,163,Em_108,Akhil Mishra,Tue,19-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+163,164,Em_104,Aaditya Tundele,Tue,19-11-2024,10:01:00,19:43:00,09:42:00,Full Day
+164,165,Em_101,Shruti Jain,Tue,19-11-2024,10:04:00,20:01:00,09:57:00,Full Day
+165,166,Em_102,Ayul Jain,Tue,19-11-2024,10:04:00,20:00:00,09:56:00,Full Day
+166,167,Em_105,Neha Chouhan,Tue,19-11-2024,10:28:00,19:48:00,09:20:00,Full Day
+167,168,Em_106,Lalit Chouhan,Tue,19-11-2024,10:28:00,19:48:00,09:20:00,Full Day
+168,169,Em_107,Jay Mukati,Tue,19-11-2024,10:35:00,19:54:00,09:19:00,Full Day
+169,170,P_101,Manish,Tue,19-11-2024,,,,
+170,171,Em_103,Shoeb Shaikh,Tue,19-11-2024,,,,Leave
+171,172,Em_108,Akhil Mishra,Wed,20-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+172,173,Em_104,Aaditya Tundele,Wed,20-11-2024,10:04:00,14:00:00,03:56:00,Half Day
+173,174,Em_101,Shruti Jain,Wed,20-11-2024,10:10:00,19:46:00,09:36:00,Full Day
+174,175,Em_102,Ayul Jain,Wed,20-11-2024,10:10:00,19:46:00,09:36:00,Full Day
+175,176,Em_106,Lalit Chouhan,Wed,20-11-2024,10:23:00,19:44:00,09:21:00,Full Day
+176,177,Em_103,Shoeb Shaikh,Wed,20-11-2024,10:25:00,19:31:00,09:06:00,Full Day
+177,178,Em_107,Jay Mukati,Wed,20-11-2024,10:35:00,19:35:00,09:00:00,Full Day
+178,179,P_101,Manish,Wed,20-11-2024,,,,
+179,180,Em_105,Neha Chouhan,Wed,20-11-2024,,,,Leave
+180,181,Em_108,Akhil Mishra,Thu,21-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+181,182,Em_101,Shruti Jain,Thu,21-11-2024,10:02:00,19:40:00,09:38:00,Full Day
+182,183,Em_102,Ayul Jain,Thu,21-11-2024,10:02:00,19:40:00,09:38:00,Full Day
+183,184,Em_107,Jay Mukati,Thu,21-11-2024,10:23:00,19:38:00,09:15:00,Full Day
+184,185,Em_106,Lalit Chouhan,Thu,21-11-2024,10:28:00,19:38:00,09:10:00,Full Day
+185,186,Em_103,Shoeb Shaikh,Thu,21-11-2024,10:32:00,19:05:00,08:33:00,Full Day
+186,187,Em_104,Aaditya Tundele,Thu,21-11-2024,,,,
+187,188,P_101,Manish,Thu,21-11-2024,,,,
+188,189,Em_105,Neha Chouhan,Thu,21-11-2024,,,,Leave
+189,190,Em_108,Akhil Mishra,Fri,22-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+190,191,Em_101,Shruti Jain,Fri,22-11-2024,10:20:00,19:37:00,09:17:00,Full Day
+191,192,Em_102,Ayul Jain,Fri,22-11-2024,10:20:00,19:37:00,09:17:00,Full Day
+192,193,Em_106,Lalit Chouhan,Fri,22-11-2024,10:20:00,19:28:00,09:08:00,Full Day
+193,194,Em_103,Shoeb Shaikh,Fri,22-11-2024,10:29:00,19:03:00,08:34:00,Full Day
+194,195,Em_104,Aaditya Tundele,Fri,22-11-2024,,,,
+195,196,P_101,Manish,Fri,22-11-2024,,,,
+196,197,Em_105,Neha Chouhan,Fri,22-11-2024,,,,Leave
+197,198,Em_107,Jay Mukati,Fri,22-11-2024,,,,Leave
+198,199,Em_108,Akhil Mishra,Sat,23-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+199,200,Em_101,Shruti Jain,Sat,23-11-2024,10:18:00,19:36:00,09:18:00,Full Day
+200,201,Em_102,Ayul Jain,Sat,23-11-2024,10:18:00,19:36:00,09:18:00,Full Day
+201,202,Em_106,Lalit Chouhan,Sat,23-11-2024,10:23:00,19:33:00,09:10:00,Full Day
+202,203,Em_103,Shoeb Shaikh,Sat,23-11-2024,10:29:00,19:04:00,08:35:00,Full Day
+203,204,Em_104,Aaditya Tundele,Sat,23-11-2024,,,,
+204,205,P_101,Manish,Sat,23-11-2024,,,,
+205,206,Em_105,Neha Chouhan,Sat,23-11-2024,,,,Leave
+206,207,Em_107,Jay Mukati,Sat,23-11-2024,,,,Leave
+207,208,Em_101,Shruti Jain,Sun,24-11-2024,,,,Holiday
+208,209,Em_102,Ayul Jain,Sun,24-11-2024,,,,Holiday
+209,210,Em_103,Shoeb Shaikh,Sun,24-11-2024,,,,Holiday
+210,211,Em_104,Aaditya Tundele,Sun,24-11-2024,,,,Holiday
+211,212,Em_105,Neha Chouhan,Sun,24-11-2024,,,,Holiday
+212,213,Em_106,Lalit Chouhan,Sun,24-11-2024,,,,Holiday
+213,214,Em_107,Jay Mukati,Sun,24-11-2024,,,,Holiday
+214,215,Em_108,Akhil Mishra,Sun,24-11-2024,,,,Holiday
+215,216,P_101,Manish,Sun,24-11-2024,,,,Holiday
+216,217,Em_108,Akhil Mishra,Mon,25-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+217,218,Em_101,Shruti Jain,Mon,25-11-2024,10:14:00,19:41:00,09:27:00,Full Day
+218,219,Em_102,Ayul Jain,Mon,25-11-2024,10:20:00,13:30:00,03:10:00,Half Day
+219,220,Em_103,Shoeb Shaikh,Mon,25-11-2024,10:38:00,19:03:00,08:25:00,Full Day
+220,221,Em_104,Aaditya Tundele,Mon,25-11-2024,,,,
+221,222,P_101,Manish,Mon,25-11-2024,,,,
+222,223,Em_105,Neha Chouhan,Mon,25-11-2024,,,,Leave
+223,224,Em_106,Lalit Chouhan,Mon,25-11-2024,,,,Leave
+224,225,Em_107,Jay Mukati,Mon,25-11-2024,12:56:00,19:03:00,06:07:00,Half Day
+225,226,Em_108,Akhil Mishra,Tue,26-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+226,227,Em_101,Shruti Jain,Tue,26-11-2024,10:09:00,20:00:00,09:51:00,Full Day
+227,228,Em_102,Ayul Jain,Tue,26-11-2024,10:09:00,20:00:00,09:51:00,Full Day
+228,229,Em_106,Lalit Chouhan,Tue,26-11-2024,10:17:00,19:32:00,09:15:00,Full Day
+229,230,Em_107,Jay Mukati,Tue,26-11-2024,10:20:00,19:32:00,09:12:00,Full Day
+230,231,Em_104,Aaditya Tundele,Tue,26-11-2024,,,,
+231,232,P_101,Manish,Tue,26-11-2024,,,,
+232,233,Em_103,Shoeb Shaikh,Tue,26-11-2024,,,,Leave
+233,234,Em_105,Neha Chouhan,Tue,26-11-2024,,,,Leave
+234,235,Em_108,Akhil Mishra,Wed,27-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+235,236,Em_101,Shruti Jain,Wed,27-11-2024,10:17:00,19:06:00,08:49:00,Full Day
+236,237,Em_102,Ayul Jain,Wed,27-11-2024,10:17:00,19:06:00,08:49:00,Full Day
+237,238,Em_103,Shoeb Shaikh,Wed,27-11-2024,10:23:00,19:04:00,08:41:00,Full Day
+238,239,Em_106,Lalit Chouhan,Wed,27-11-2024,10:23:00,19:07:00,08:44:00,Full Day
+239,240,Em_107,Jay Mukati,Wed,27-11-2024,10:29:00,19:06:00,08:37:00,Full Day
+240,241,Em_104,Aaditya Tundele,Wed,27-11-2024,,,,
+241,242,P_101,Manish,Wed,27-11-2024,,,,
+242,243,Em_105,Neha Chouhan,Wed,27-11-2024,,,,Leave
+243,244,Em_108,Akhil Mishra,Thu,28-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+244,245,Em_101,Shruti Jain,Thu,28-11-2024,10:16:00,19:07:00,08:51:00,Full Day
+245,246,Em_102,Ayul Jain,Thu,28-11-2024,10:16:00,19:07:00,08:51:00,Full Day
+246,247,Em_103,Shoeb Shaikh,Thu,28-11-2024,10:40:00,19:05:00,08:25:00,Full Day
+247,248,Em_107,Jay Mukati,Thu,28-11-2024,10:50:00,19:06:00,08:16:00,Full Day
+248,249,Em_104,Aaditya Tundele,Thu,28-11-2024,,,,
+249,250,P_101,Manish,Thu,28-11-2024,,,,
+250,251,Em_106,Lalit Chouhan,Thu,28-11-2024,11:23:00,19:06:00,07:43:00,Half Day
+251,252,Em_105,Neha Chouhan,Thu,28-11-2024,,,,Leave
+252,253,Em_108,Akhil Mishra,Fri,29-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+253,254,Em_106,Lalit Chouhan,Fri,29-11-2024,10:15:00,19:04:00,08:49:00,Full Day
+254,255,Em_101,Shruti Jain,Fri,29-11-2024,10:21:00,19:04:00,08:43:00,Full Day
+255,256,Em_102,Ayul Jain,Fri,29-11-2024,10:21:00,19:04:00,08:43:00,Full Day
+256,257,Em_107,Jay Mukati,Fri,29-11-2024,10:23:00,19:02:00,08:39:00,Full Day
+257,258,Em_103,Shoeb Shaikh,Fri,29-11-2024,10:40:00,19:01:00,08:21:00,Full Day
+258,259,Em_104,Aaditya Tundele,Fri,29-11-2024,,,,
+259,260,P_101,Manish,Fri,29-11-2024,,,,
+260,261,Em_105,Neha Chouhan,Fri,29-11-2024,,,,Leave
+261,262,Em_108,Akhil Mishra,Sat,30-11-2024,10:00:00,20:30:00,10:30:00,Full Day
+262,263,Em_103,Shoeb Shaikh,Sat,30-11-2024,10:20:00,19:20:00,09:00:00,Full Day
+263,264,Em_101,Shruti Jain,Sat,30-11-2024,10:28:00,19:20:00,08:52:00,Full Day
+264,265,Em_102,Ayul Jain,Sat,30-11-2024,10:28:00,19:20:00,08:52:00,Full Day
+265,266,Em_106,Lalit Chouhan,Sat,30-11-2024,10:35:00,19:18:00,08:43:00,Full Day
+266,267,Em_104,Aaditya Tundele,Sat,30-11-2024,,,,
+267,268,P_101,Manish,Sat,30-11-2024,,,,
+268,269,Em_107,Jay Mukati,Sat,30-11-2024,11:00:00,19:16:00,08:16:00,Full Day
+269,270,Em_105,Neha Chouhan,Sat,30-11-2024,,,,Leave
+270,1,Em_108,Akhil Mishra,Sun,02-12-2024,10:00:00,20:00:00,10:00:00,Holiday
+271,2,Em_106,Lalit Chouhan,Sun,02-12-2024,10:25:00,19:11:00,08:46:00,Holiday
+272,3,Em_101,Shruti Jain,Sun,02-12-2024,10:35:00,19:15:00,08:40:00,Holiday
+273,4,Em_102,Ayul Jain,Sun,02-12-2024,10:35:00,19:15:00,08:40:00,Holiday
+274,5,Em_110,Priyanka Sharma,Sun,02-12-2024,11:00:00,18:18:00,07:18:00,Holiday
+275,6,Em_107,Jay Mukati,Sun,02-12-2024,11:14:00,19:10:00,07:56:00,Holiday
+276,7,Em_109,Apporv Vaidya,Sun,02-12-2024,,,,Holiday
+277,8,Em_111,Isha Jaiswal,Sun,02-12-2024,,,,Holiday
+278,9,Em_108,Akhil Mishra,Mon,03-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+279,10,Em_101,Shruti Jain,Mon,03-12-2024,10:26:00,19:13:00,08:47:00,Full Day
+280,11,Em_102,Ayul Jain,Mon,03-12-2024,10:26:00,19:13:00,08:47:00,Full Day
+281,12,Em_106,Lalit Chouhan,Mon,03-12-2024,10:36:00,19:03:00,08:27:00,Full Day
+282,13,Em_107,Jay Mukati,Mon,03-12-2024,11:00:00,18:30:00,07:30:00,Half Day
+283,14,Em_110,Priyanka Sharma,Mon,03-12-2024,11:00:00,19:18:00,08:18:00,Full Day
+284,15,Em_109,Apporv Vaidya,Mon,03-12-2024,,,,
+285,16,Em_111,Isha Jaiswal,Mon,03-12-2024,,,,
+286,17,Em_108,Akhil Mishra,Tue,04-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+287,18,Em_101,Shruti Jain,Tue,04-12-2024,10:25:00,19:02:00,08:37:00,Full Day
+288,19,Em_102,Ayul Jain,Tue,04-12-2024,10:25:00,19:16:00,08:51:00,Full Day
+289,20,Em_106,Lalit Chouhan,Tue,04-12-2024,10:26:00,19:02:00,08:36:00,Full Day
+290,21,Em_107,Jay Mukati,Tue,04-12-2024,10:45:00,19:05:00,08:20:00,Full Day
+291,22,Em_110,Priyanka Sharma,Tue,04-12-2024,11:21:00,18:30:00,07:09:00,Half Day
+292,23,Em_109,Apporv Vaidya,Tue,04-12-2024,,,,
+293,24,Em_111,Isha Jaiswal,Tue,04-12-2024,,,,
+294,25,Em_108,Akhil Mishra,Wed,05-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+295,26,Em_101,Shruti Jain,Wed,05-12-2024,10:03:00,19:23:00,09:20:00,Full Day
+296,27,Em_102,Ayul Jain,Wed,05-12-2024,10:03:00,19:23:00,09:20:00,Full Day
+297,28,Em_110,Priyanka Sharma,Wed,05-12-2024,10:30:00,19:24:00,08:54:00,Full Day
+298,29,Em_106,Lalit Chouhan,Wed,05-12-2024,10:35:00,19:12:00,08:37:00,Full Day
+299,30,Em_109,Apporv Vaidya,Wed,05-12-2024,,,,
+300,31,Em_111,Isha Jaiswal,Wed,05-12-2024,,,,
+301,32,Em_107,Jay Mukati,Wed,05-12-2024,,,,Leave
+302,33,Em_108,Akhil Mishra,Thu,06-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+303,34,Em_101,Shruti Jain,Thu,06-12-2024,10:23:00,19:20:00,08:57:00,Full Day
+304,35,Em_102,Ayul Jain,Thu,06-12-2024,10:23:00,19:20:00,08:57:00,Full Day
+305,36,Em_106,Lalit Chouhan,Thu,06-12-2024,10:35:00,19:14:00,08:39:00,Full Day
+306,37,Em_111,Isha Jaiswal,Thu,06-12-2024,11:00:00,18:00:00,07:00:00,Half Day
+307,38,Em_110,Priyanka Sharma,Thu,06-12-2024,11:16:00,19:14:00,07:58:00,Half Day
+308,39,Em_109,Apporv Vaidya,Thu,06-12-2024,,,,
+309,40,Em_107,Jay Mukati,Thu,06-12-2024,,,,Leave
+310,41,Em_108,Akhil Mishra,Fri,07-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+311,42,Em_101,Shruti Jain,Fri,07-12-2024,10:30:00,16:31:00,06:01:00,Half Day
+312,43,Em_102,Ayul Jain,Fri,07-12-2024,10:30:00,18:41:00,08:11:00,Full Day
+313,44,Em_110,Priyanka Sharma,Fri,07-12-2024,10:35:00,19:30:00,08:55:00,Full Day
+314,45,Em_106,Lalit Chouhan,Fri,07-12-2024,10:45:00,18:45:00,08:00:00,Full Day
+315,46,Em_111,Isha Jaiswal,Fri,07-12-2024,11:00:00,18:00:00,07:00:00,Half Day
+316,47,Em_109,Apporv Vaidya,Fri,07-12-2024,,,,
+317,48,Em_107,Jay Mukati,Fri,07-12-2024,,,,Leave
+318,49,Em_101,Shruti Jain,Sat,08-12-2024,,,,
+319,50,Em_102,Ayul Jain,Sat,08-12-2024,,,,
+320,51,Em_106,Lalit Chouhan,Sat,08-12-2024,,,,
+321,52,Em_107,Jay Mukati,Sat,08-12-2024,,,,
+322,53,Em_109,Apporv Vaidya,Sat,08-12-2024,,,,
+323,54,Em_110,Priyanka Sharma,Sat,08-12-2024,,,,
+324,55,Em_111,Isha Jaiswal,Sat,08-12-2024,,,,
+325,56,Em_108,Akhil Mishra,Sat,08-12-2024,,,,
+326,57,Em_108,Akhil Mishra,Sun,09-12-2024,10:00:00,20:00:00,10:00:00,Holiday
+327,58,Em_102,Ayul Jain,Sun,09-12-2024,10:21:00,19:33:00,09:12:00,Holiday
+328,59,Em_106,Lalit Chouhan,Sun,09-12-2024,10:21:00,19:16:00,08:55:00,Holiday
+329,60,Em_110,Priyanka Sharma,Sun,09-12-2024,11:00:00,20:00:00,09:00:00,Holiday
+330,61,Em_111,Isha Jaiswal,Sun,09-12-2024,11:00:00,18:00:00,07:00:00,Holiday
+331,62,Em_109,Apporv Vaidya,Sun,09-12-2024,,,,Holiday
+332,63,Em_101,Shruti Jain,Sun,09-12-2024,,,,Holiday
+333,64,Em_107,Jay Mukati,Sun,09-12-2024,,,,Holiday
+334,65,Em_108,Akhil Mishra,Mon,10-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+335,66,Em_110,Priyanka Sharma,Mon,10-12-2024,10:20:00,19:06:00,08:46:00,Full Day
+336,67,Em_101,Shruti Jain,Mon,10-12-2024,10:30:00,19:06:00,08:36:00,Full Day
+337,68,Em_102,Ayul Jain,Mon,10-12-2024,10:30:00,19:06:00,08:36:00,Full Day
+338,69,Em_106,Lalit Chouhan,Mon,10-12-2024,10:35:00,19:06:00,08:31:00,Full Day
+339,70,Em_111,Isha Jaiswal,Mon,10-12-2024,11:00:00,18:00:00,07:00:00,Half Day
+340,71,Em_109,Apporv Vaidya,Mon,10-12-2024,,,,
+341,72,Em_107,Jay Mukati,Mon,10-12-2024,,,,Leave
+342,73,Em_108,Akhil Mishra,Tue,11-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+343,74,Em_101,Shruti Jain,Tue,11-12-2024,10:30:00,19:38:00,09:08:00,Full Day
+344,75,Em_102,Ayul Jain,Tue,11-12-2024,10:30:00,19:38:00,09:08:00,Full Day
+345,76,Em_110,Priyanka Sharma,Tue,11-12-2024,10:30:00,19:38:00,09:08:00,Full Day
+346,77,Em_106,Lalit Chouhan,Tue,11-12-2024,10:45:00,19:10:00,08:25:00,Full Day
+347,78,Em_111,Isha Jaiswal,Tue,11-12-2024,11:00:00,18:00:00,07:00:00,Half Day
+348,79,Em_109,Apporv Vaidya,Tue,11-12-2024,11:12:00,18:30:00,07:18:00,Half Day
+349,80,Em_107,Jay Mukati,Tue,11-12-2024,,,,Leave
+350,81,Em_108,Akhil Mishra,Wed,12-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+351,82,Em_106,Lalit Chouhan,Wed,12-12-2024,10:29:00,19:07:00,08:38:00,Full Day
+352,83,Em_101,Shruti Jain,Wed,12-12-2024,10:34:00,19:38:00,09:04:00,Full Day
+353,84,Em_102,Ayul Jain,Wed,12-12-2024,10:34:00,19:38:00,09:04:00,Full Day
+354,85,Em_110,Priyanka Sharma,Wed,12-12-2024,10:34:00,19:38:00,09:04:00,Full Day
+355,86,Em_107,Jay Mukati,Wed,12-12-2024,10:36:00,19:07:00,08:31:00,Full Day
+356,87,Em_111,Isha Jaiswal,Wed,12-12-2024,11:00:00,18:00:00,07:00:00,Half Day
+357,88,Em_109,Apporv Vaidya,Wed,12-12-2024,11:08:00,18:30:00,07:22:00,Half Day
+358,89,Em_108,Akhil Mishra,Thu,13-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+359,90,Em_106,Lalit Chouhan,Thu,13-12-2024,10:33:00,19:32:00,08:59:00,Full Day
+360,91,Em_111,Isha Jaiswal,Thu,13-12-2024,10:33:00,18:30:00,07:57:00,Half Day
+361,92,Em_101,Shruti Jain,Thu,13-12-2024,10:35:00,20:46:00,10:11:00,Full Day
+362,93,Em_102,Ayul Jain,Thu,13-12-2024,10:35:00,20:46:00,10:11:00,Full Day
+363,94,Em_107,Jay Mukati,Thu,13-12-2024,10:35:00,19:30:00,08:55:00,Full Day
+364,95,Em_110,Priyanka Sharma,Thu,13-12-2024,10:35:00,20:46:00,10:11:00,Full Day
+365,96,Em_109,Apporv Vaidya,Thu,13-12-2024,11:05:00,18:30:00,07:25:00,Half Day
+366,97,Em_108,Akhil Mishra,Fri,14-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+367,98,Em_111,Isha Jaiswal,Fri,14-12-2024,10:35:00,18:30:00,07:55:00,Half Day
+368,99,Em_101,Shruti Jain,Fri,14-12-2024,10:36:00,20:13:00,09:37:00,Full Day
+369,100,Em_102,Ayul Jain,Fri,14-12-2024,10:36:00,20:13:00,09:37:00,Full Day
+370,101,Em_110,Priyanka Sharma,Fri,14-12-2024,10:36:00,20:13:00,09:37:00,Full Day
+371,102,Em_107,Jay Mukati,Fri,14-12-2024,10:45:00,20:15:00,09:30:00,Full Day
+372,103,Em_109,Apporv Vaidya,Fri,14-12-2024,11:10:00,18:30:00,07:20:00,Half Day
+373,104,Em_106,Lalit Chouhan,Fri,14-12-2024,,,,Leave
+374,105,Em_101,Shruti Jain,Sat,15-12-2024,,,,
+375,106,Em_102,Ayul Jain,Sat,15-12-2024,,,,
+376,107,Em_106,Lalit Chouhan,Sat,15-12-2024,,,,
+377,108,Em_107,Jay Mukati,Sat,15-12-2024,,,,
+378,109,Em_109,Apporv Vaidya,Sat,15-12-2024,,,,
+379,110,Em_110,Priyanka Sharma,Sat,15-12-2024,,,,
+380,111,Em_111,Isha Jaiswal,Sat,15-12-2024,,,,
+381,112,Em_108,Akhil Mishra,Sat,15-12-2024,,,,
+382,113,Em_108,Akhil Mishra,Sun,16-12-2024,10:00:00,20:00:00,10:00:00,Holiday
+383,114,Em_101,Shruti Jain,Sun,16-12-2024,10:36:00,19:05:00,08:29:00,Holiday
+384,115,Em_102,Ayul Jain,Sun,16-12-2024,10:36:00,19:05:00,08:29:00,Holiday
+385,116,Em_110,Priyanka Sharma,Sun,16-12-2024,10:36:00,19:05:00,08:29:00,Holiday
+386,117,Em_107,Jay Mukati,Sun,16-12-2024,10:38:00,19:04:00,08:26:00,Holiday
+387,118,Em_111,Isha Jaiswal,Sun,16-12-2024,11:00:00,19:02:00,08:02:00,Holiday
+388,119,Em_109,Apporv Vaidya,Sun,16-12-2024,11:20:00,19:00:00,07:40:00,Holiday
+389,120,Em_106,Lalit Chouhan,Sun,16-12-2024,,,,Holiday
+390,121,Em_108,Akhil Mishra,Mon,17-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+391,122,Em_101,Shruti Jain,Mon,17-12-2024,10:20:00,19:32:00,09:12:00,Full Day
+392,123,Em_102,Ayul Jain,Mon,17-12-2024,10:20:00,19:32:00,09:12:00,Full Day
+393,124,Em_110,Priyanka Sharma,Mon,17-12-2024,10:20:00,19:32:00,09:12:00,Full Day
+394,125,Em_107,Jay Mukati,Mon,17-12-2024,10:28:00,19:05:00,08:37:00,Full Day
+395,126,Em_111,Isha Jaiswal,Mon,17-12-2024,10:30:00,19:00:00,08:30:00,Full Day
+396,127,Em_106,Lalit Chouhan,Mon,17-12-2024,10:53:00,19:25:00,08:32:00,Full Day
+397,128,Em_109,Apporv Vaidya,Mon,17-12-2024,11:11:00,19:00:00,07:49:00,Half Day
+398,129,Em_108,Akhil Mishra,Tue,18-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+399,130,Em_101,Shruti Jain,Tue,18-12-2024,10:26:00,19:50:00,09:24:00,Full Day
+400,131,Em_102,Ayul Jain,Tue,18-12-2024,10:26:00,19:50:00,09:24:00,Full Day
+401,132,Em_110,Priyanka Sharma,Tue,18-12-2024,10:26:00,19:50:00,09:24:00,Full Day
+402,133,Em_107,Jay Mukati,Tue,18-12-2024,10:30:00,19:03:00,08:33:00,Full Day
+403,134,Em_111,Isha Jaiswal,Tue,18-12-2024,10:30:00,19:30:00,09:00:00,Full Day
+404,135,Em_106,Lalit Chouhan,Tue,18-12-2024,10:44:00,19:46:00,09:02:00,Full Day
+405,136,Em_109,Apporv Vaidya,Tue,18-12-2024,,,,Leave
+406,137,Em_108,Akhil Mishra,Wed,19-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+407,138,Em_101,Shruti Jain,Wed,19-12-2024,10:27:00,18:30:00,08:03:00,Half Day
+408,139,Em_102,Ayul Jain,Wed,19-12-2024,10:27:00,14:10:00,03:43:00,Half Day
+409,140,Em_110,Priyanka Sharma,Wed,19-12-2024,10:27:00,18:30:00,08:03:00,Full Day
+410,141,Em_111,Isha Jaiswal,Wed,19-12-2024,10:30:00,19:00:00,08:30:00,Full Day
+411,142,Em_106,Lalit Chouhan,Wed,19-12-2024,10:31:00,19:05:00,08:34:00,Full Day
+412,143,Em_109,Apporv Vaidya,Wed,19-12-2024,10:33:00,14:10:00,03:37:00,Half Day
+413,144,Em_107,Jay Mukati,Wed,19-12-2024,10:45:00,19:04:00,08:19:00,Full Day
+414,145,Em_108,Akhil Mishra,Thu,20-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+415,146,Em_101,Shruti Jain,Thu,20-12-2024,10:20:00,19:30:00,09:10:00,Full Day
+416,147,Em_102,Ayul Jain,Thu,20-12-2024,10:20:00,19:30:00,09:10:00,Full Day
+417,148,Em_110,Priyanka Sharma,Thu,20-12-2024,10:20:00,19:30:00,09:10:00,Full Day
+418,149,Em_107,Jay Mukati,Thu,20-12-2024,10:30:00,19:35:00,09:05:00,Full Day
+419,150,Em_111,Isha Jaiswal,Thu,20-12-2024,10:30:00,19:00:00,08:30:00,Full Day
+420,151,Em_106,Lalit Chouhan,Thu,20-12-2024,10:35:00,19:26:00,08:51:00,Full Day
+421,152,Em_109,Apporv Vaidya,Thu,20-12-2024,10:40:00,19:26:00,08:46:00,Full Day
+422,153,Em_108,Akhil Mishra,Fri,21-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+423,154,Em_101,Shruti Jain,Fri,21-12-2024,10:25:00,19:15:00,08:50:00,Full Day
+424,155,Em_102,Ayul Jain,Fri,21-12-2024,10:25:00,19:15:00,08:50:00,Full Day
+425,156,Em_110,Priyanka Sharma,Fri,21-12-2024,10:25:00,19:15:00,08:50:00,Full Day
+426,157,Em_107,Jay Mukati,Fri,21-12-2024,10:26:00,19:09:00,08:43:00,Full Day
+427,158,Em_111,Isha Jaiswal,Fri,21-12-2024,10:30:00,19:00:00,08:30:00,Full Day
+428,159,Em_106,Lalit Chouhan,Fri,21-12-2024,10:33:00,19:06:00,08:33:00,Full Day
+429,160,Em_109,Apporv Vaidya,Fri,21-12-2024,10:39:00,19:00:00,08:21:00,Full Day
+430,161,Em_101,Shruti Jain,Sat,22-12-2024,,,,
+431,162,Em_102,Ayul Jain,Sat,22-12-2024,,,,
+432,163,Em_106,Lalit Chouhan,Sat,22-12-2024,,,,
+433,164,Em_107,Jay Mukati,Sat,22-12-2024,,,,
+434,165,Em_109,Apporv Vaidya,Sat,22-12-2024,,,,
+435,166,Em_110,Priyanka Sharma,Sat,22-12-2024,,,,
+436,167,Em_111,Isha Jaiswal,Sat,22-12-2024,,,,
+437,168,Em_108,Akhil Mishra,Sat,22-12-2024,,,,
+438,169,Em_108,Akhil Mishra,Sun,23-12-2024,10:00:00,20:00:00,10:00:00,Holiday
+439,170,Em_101,Shruti Jain,Sun,23-12-2024,10:25:00,19:20:00,08:55:00,Holiday
+440,171,Em_102,Ayul Jain,Sun,23-12-2024,10:25:00,19:20:00,08:55:00,Holiday
+441,172,Em_110,Priyanka Sharma,Sun,23-12-2024,10:25:00,19:20:00,08:55:00,Holiday
+442,173,Em_111,Isha Jaiswal,Sun,23-12-2024,10:30:00,19:00:00,08:30:00,Holiday
+443,174,Em_106,Lalit Chouhan,Sun,23-12-2024,10:37:00,19:06:00,08:29:00,Holiday
+444,175,Em_107,Jay Mukati,Sun,23-12-2024,10:43:00,19:06:00,08:23:00,Holiday
+445,176,Em_109,Apporv Vaidya,Sun,23-12-2024,14:00:00,19:15:00,05:15:00,Holiday
+446,177,Em_101,Shruti Jain,Mon,24-12-2024,10:23:00,19:02:00,08:39:00,Full Day
+447,178,Em_102,Ayul Jain,Mon,24-12-2024,10:23:00,19:02:00,08:39:00,Full Day
+448,179,Em_110,Priyanka Sharma,Mon,24-12-2024,10:23:00,19:02:00,08:39:00,Full Day
+449,180,Em_106,Lalit Chouhan,Mon,24-12-2024,10:26:00,19:01:00,08:35:00,Full Day
+450,181,Em_107,Jay Mukati,Mon,24-12-2024,10:29:00,19:01:00,08:32:00,Full Day
+451,182,Em_111,Isha Jaiswal,Mon,24-12-2024,10:30:00,19:00:00,08:30:00,Full Day
+452,183,Em_109,Apporv Vaidya,Mon,24-12-2024,10:37:00,19:01:00,08:24:00,Full Day
+453,184,Em_108,Akhil Mishra,Mon,24-12-2024,,,,Leave
+454,185,Em_106,Lalit Chouhan,Tue,25-12-2024,10:24:00,19:01:00,08:37:00,Full Day
+455,186,Em_107,Jay Mukati,Tue,25-12-2024,10:30:00,19:01:00,08:31:00,Full Day
+456,187,Em_111,Isha Jaiswal,Tue,25-12-2024,10:30:00,19:00:00,08:30:00,Full Day
+457,188,Em_101,Shruti Jain,Tue,25-12-2024,10:40:00,19:02:00,08:22:00,Half Day
+458,189,Em_102,Ayul Jain,Tue,25-12-2024,10:40:00,19:02:00,08:22:00,Full Day
+459,190,Em_109,Apporv Vaidya,Tue,25-12-2024,10:40:00,19:02:00,08:22:00,Full Day
+460,191,Em_110,Priyanka Sharma,Tue,25-12-2024,10:40:00,19:02:00,08:22:00,Full Day
+461,192,Em_108,Akhil Mishra,Tue,25-12-2024,,,,Leave
+462,193,Em_108,Akhil Mishra,Wed,26-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+463,194,Em_101,Shruti Jain,Wed,26-12-2024,10:20:00,19:30:00,09:10:00,Full Day
+464,195,Em_102,Ayul Jain,Wed,26-12-2024,10:20:00,19:30:00,09:10:00,Full Day
+465,196,Em_110,Priyanka Sharma,Wed,26-12-2024,10:20:00,19:30:00,09:10:00,Full Day
+466,197,Em_106,Lalit Chouhan,Wed,26-12-2024,10:30:00,19:30:00,09:00:00,Full Day
+467,198,Em_107,Jay Mukati,Wed,26-12-2024,10:30:00,19:04:00,08:34:00,Full Day
+468,199,Em_111,Isha Jaiswal,Wed,26-12-2024,10:30:00,19:00:00,08:30:00,Full Day
+469,200,Em_109,Apporv Vaidya,Wed,26-12-2024,10:45:00,19:08:00,08:23:00,Full Day
+470,201,Em_108,Akhil Mishra,Thu,27-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+471,202,Em_101,Shruti Jain,Thu,27-12-2024,10:20:00,19:24:00,09:04:00,Full Day
+472,203,Em_102,Ayul Jain,Thu,27-12-2024,10:20:00,19:24:00,09:04:00,Full Day
+473,204,Em_110,Priyanka Sharma,Thu,27-12-2024,10:20:00,19:15:00,08:55:00,Full Day
+474,205,Em_106,Lalit Chouhan,Thu,27-12-2024,10:35:00,19:02:00,08:27:00,Full Day
+475,206,Em_109,Apporv Vaidya,Thu,27-12-2024,10:40:00,19:02:00,08:22:00,Full Day
+476,207,Em_107,Jay Mukati,Thu,27-12-2024,10:41:00,19:04:00,08:23:00,Full Day
+477,208,Em_111,Isha Jaiswal,Thu,27-12-2024,10:43:00,19:00:00,08:17:00,Full Day
+478,209,Em_108,Akhil Mishra,Fri,28-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+479,210,Em_106,Lalit Chouhan,Fri,28-12-2024,10:25:00,19:05:00,08:40:00,Full Day
+480,211,Em_109,Apporv Vaidya,Fri,28-12-2024,10:30:00,19:02:00,08:32:00,Full Day
+481,212,Em_101,Shruti Jain,Fri,28-12-2024,10:35:00,19:30:00,08:55:00,Full Day
+482,213,Em_102,Ayul Jain,Fri,28-12-2024,10:35:00,19:35:00,09:00:00,Full Day
+483,214,Em_110,Priyanka Sharma,Fri,28-12-2024,10:35:00,19:07:00,08:32:00,Full Day
+484,215,Em_111,Isha Jaiswal,Fri,28-12-2024,10:35:00,19:00:00,08:25:00,Full Day
+485,216,Em_107,Jay Mukati,Fri,28-12-2024,10:41:00,19:08:00,08:27:00,Full Day
+486,217,Em_101,Shruti Jain,Sat,29-12-2024,,,,
+487,218,Em_102,Ayul Jain,Sat,29-12-2024,,,,
+488,219,Em_106,Lalit Chouhan,Sat,29-12-2024,,,,
+489,220,Em_107,Jay Mukati,Sat,29-12-2024,,,,
+490,221,Em_109,Apporv Vaidya,Sat,29-12-2024,,,,
+491,222,Em_110,Priyanka Sharma,Sat,29-12-2024,,,,
+492,223,Em_111,Isha Jaiswal,Sat,29-12-2024,,,,
+493,224,Em_108,Akhil Mishra,Sat,29-12-2024,,,,
+494,225,Em_108,Akhil Mishra,Sun,30-12-2024,10:00:00,20:00:00,10:00:00,Holiday
+495,226,Em_101,Shruti Jain,Sun,30-12-2024,10:10:00,19:30:00,09:20:00,Holiday
+496,227,Em_102,Ayul Jain,Sun,30-12-2024,10:10:00,19:30:00,09:20:00,Holiday
+497,228,Em_107,Jay Mukati,Sun,30-12-2024,10:25:00,19:10:00,08:45:00,Holiday
+498,229,Em_106,Lalit Chouhan,Sun,30-12-2024,10:30:00,19:03:00,08:33:00,Holiday
+499,230,Em_111,Isha Jaiswal,Sun,30-12-2024,10:30:00,19:00:00,08:30:00,Holiday
+500,231,Em_109,Apporv Vaidya,Sun,30-12-2024,10:32:00,19:10:00,08:38:00,Holiday
+501,232,Em_110,Priyanka Sharma,Sun,30-12-2024,10:45:00,19:15:00,08:30:00,Holiday
+502,233,Em_108,Akhil Mishra,Mon,31-12-2024,10:00:00,20:00:00,10:00:00,Full Day
+503,234,Em_101,Shruti Jain,Mon,31-12-2024,10:30:00,19:30:00,09:00:00,Full Day
+504,235,Em_102,Ayul Jain,Mon,31-12-2024,10:30:00,19:30:00,09:00:00,Full Day
+505,236,Em_109,Apporv Vaidya,Mon,31-12-2024,10:32:00,16:10:00,05:38:00,Half Day
+506,237,Em_111,Isha Jaiswal,Mon,31-12-2024,10:44:00,12:10:00,01:26:00,Half Day
+507,238,Em_106,Lalit Chouhan,Mon,31-12-2024,,,,
+508,239,Em_107,Jay Mukati,Mon,31-12-2024,,,,
+509,240,Em_110,Priyanka Sharma,Mon,31-12-2024,,,,Leave
+510,1,Em_101,Shruti Jain,wed,01-01-2025,,,,
+511,2,Em_102,Ayul Jain,wed,01-01-2025,,,,
+512,3,Em_110,Priyanka Sharma,wed,01-01-2025,,,,
+513,4,Em_111,Isha Jaiswal,wed,01-01-2025,,,,
+514,5,Em_108,Akhil Mishra,wed,01-01-2025,,,,
+515,6,Em_112,Pragya Watti,wed,01-01-2025,,,,
+516,7,P_101,Manish,wed,01-01-2025,,,,
+517,8,P_101,Manish,thu,02-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+518,9,Em_101,Shruti Jain,thu,02-01-2025,10:20:00,19:54:00,09:34:00,Full Day
+519,10,Em_102,Ayul Jain,thu,02-01-2025,10:20:00,19:54:00,09:34:00,Full Day
+520,11,Em_110,Priyanka Sharma,thu,02-01-2025,10:30:00,19:10:00,08:40:00,Full Day
+521,12,Em_111,Isha Jaiswal,thu,02-01-2025,10:40:00,19:40:00,09:00:00,Full Day
+522,13,Em_108,Akhil Mishra,thu,02-01-2025,,,,
+523,14,Em_112,Pragya Watti,thu,02-01-2025,11:25:00,20:00:00,08:35:00,Half Day
+524,15,P_101,Manish,fri,03-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+525,16,Em_101,Shruti Jain,fri,03-01-2025,10:18:00,20:18:00,10:00:00,Full Day
+526,17,Em_102,Ayul Jain,fri,03-01-2025,10:18:00,20:18:00,10:00:00,Full Day
+527,18,Em_110,Priyanka Sharma,fri,03-01-2025,10:18:00,19:36:00,09:18:00,Full Day
+528,19,Em_108,Akhil Mishra,fri,03-01-2025,,,,
+529,20,Em_111,Isha Jaiswal,fri,03-01-2025,11:20:00,18:40:00,07:20:00,Half Day
+530,21,Em_112,Pragya Watti,fri,03-01-2025,11:30:00,19:16:00,07:46:00,Half Day
+531,22,P_101,Manish,sat,04-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+532,23,Em_101,Shruti Jain,sat,04-01-2025,10:17:00,19:09:00,08:52:00,Full Day
+533,24,Em_102,Ayul Jain,sat,04-01-2025,10:17:00,19:09:00,08:52:00,Full Day
+534,25,Em_110,Priyanka Sharma,sat,04-01-2025,10:30:00,19:05:00,08:35:00,Full Day
+535,26,Em_111,Isha Jaiswal,sat,04-01-2025,10:40:00,19:00:00,08:20:00,Full Day
+536,27,Em_108,Akhil Mishra,sat,04-01-2025,,,,
+537,28,Em_112,Pragya Watti,sat,04-01-2025,11:30:00,19:08:00,07:38:00,Half Day
+538,29,Em_101,Shruti Jain,sun,05-01-2025,,,00:00:00,Half Day
+539,30,Em_102,Ayul Jain,sun,05-01-2025,,,,
+540,31,Em_110,Priyanka Sharma,sun,05-01-2025,,,,
+541,32,Em_111,Isha Jaiswal,sun,05-01-2025,,,,
+542,33,Em_108,Akhil Mishra,sun,05-01-2025,,,,
+543,34,Em_112,Pragya Watti,sun,05-01-2025,,,,
+544,35,P_101,Manish,sun,05-01-2025,,,,
+545,36,P_101,Manish,mon,06-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+546,37,Em_101,Shruti Jain,mon,06-01-2025,10:30:00,19:20:00,08:50:00,Full Day
+547,38,Em_102,Ayul Jain,mon,06-01-2025,10:30:00,19:20:00,08:50:00,Full Day
+548,39,Em_110,Priyanka Sharma,mon,06-01-2025,10:50:00,19:20:00,08:30:00,Full Day
+549,40,Em_111,Isha Jaiswal,mon,06-01-2025,10:50:00,19:00:00,08:10:00,Full Day
+550,41,Em_108,Akhil Mishra,mon,06-01-2025,,,,
+551,42,Em_112,Pragya Watti,mon,06-01-2025,11:30:00,19:44:00,08:14:00,Half Day
+552,43,P_101,Manish,tue,07-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+553,44,Em_101,Shruti Jain,tue,07-01-2025,10:10:00,19:20:00,09:10:00,Full Day
+554,45,Em_102,Ayul Jain,tue,07-01-2025,10:10:00,19:20:00,09:10:00,Full Day
+555,46,Em_110,Priyanka Sharma,tue,07-01-2025,10:10:00,19:20:00,09:10:00,Full Day
+556,47,Em_111,Isha Jaiswal,tue,07-01-2025,10:30:00,19:00:00,08:30:00,Full Day
+557,48,Em_108,Akhil Mishra,tue,07-01-2025,,,,
+558,49,Em_112,Pragya Watti,tue,07-01-2025,11:35:00,19:40:00,08:05:00,Half Day
+559,50,P_101,Manish,wed,08-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+560,51,Em_110,Priyanka Sharma,wed,08-01-2025,10:20:00,19:40:00,09:20:00,Full Day
+561,52,Em_101,Shruti Jain,wed,08-01-2025,10:25:00,19:50:00,09:25:00,Full Day
+562,53,Em_102,Ayul Jain,wed,08-01-2025,10:25:00,19:50:00,09:25:00,Full Day
+563,54,Em_111,Isha Jaiswal,wed,08-01-2025,10:35:00,19:00:00,08:25:00,Full Day
+564,55,Em_112,Pragya Watti,wed,08-01-2025,11:25:00,19:20:00,07:55:00,Half Day
+565,56,Em_108,Akhil Mishra,wed,08-01-2025,,,,Leave
+566,57,P_101,Manish,thu,09-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+567,58,Em_101,Shruti Jain,thu,09-01-2025,10:25:00,19:17:00,08:52:00,Full Day
+568,59,Em_102,Ayul Jain,thu,09-01-2025,10:25:00,19:17:00,08:52:00,Full Day
+569,60,Em_110,Priyanka Sharma,thu,09-01-2025,10:25:00,17:00:00,06:35:00,Half Day
+570,61,Em_112,Pragya Watti,thu,09-01-2025,11:30:00,19:20:00,07:50:00,Half Day
+571,62,Em_111,Isha Jaiswal,thu,09-01-2025,,,,Leave
+572,63,Em_108,Akhil Mishra,thu,09-01-2025,,,,Leave
+573,64,P_101,Manish,fri,10-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+574,65,Em_102,Ayul Jain,fri,10-01-2025,10:25:00,19:51:00,09:26:00,Full Day
+575,66,Em_111,Isha Jaiswal,fri,10-01-2025,10:35:00,19:15:00,08:40:00,Full Day
+576,67,Em_101,Shruti Jain,fri,10-01-2025,10:40:00,19:51:00,09:11:00,Full Day
+577,68,Em_110,Priyanka Sharma,fri,10-01-2025,11:00:00,19:51:00,08:51:00,Full Day
+578,69,Em_112,Pragya Watti,fri,10-01-2025,11:27:00,19:30:00,08:03:00,Half Day
+579,70,Em_108,Akhil Mishra,fri,10-01-2025,,,,Leave
+580,71,P_101,Manish,sat,11-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+581,72,Em_101,Shruti Jain,sat,11-01-2025,10:30:00,18:40:00,08:10:00,Half Day
+582,73,Em_102,Ayul Jain,sat,11-01-2025,10:30:00,18:40:00,08:10:00,Full Day
+583,74,Em_111,Isha Jaiswal,sat,11-01-2025,10:30:00,18:38:00,08:08:00,Full Day
+584,75,Em_110,Priyanka Sharma,sat,11-01-2025,10:38:00,18:38:00,08:00:00,Full Day
+585,76,Em_112,Pragya Watti,sat,11-01-2025,11:30:00,19:35:00,08:05:00,Half Day
+586,77,Em_108,Akhil Mishra,sat,11-01-2025,,,,Leave
+587,78,Em_101,Shruti Jain,sun,12-01-2025,,,,
+588,79,Em_102,Ayul Jain,sun,12-01-2025,,,,
+589,80,Em_110,Priyanka Sharma,sun,12-01-2025,,,,
+590,81,Em_111,Isha Jaiswal,sun,12-01-2025,,,,
+591,82,Em_108,Akhil Mishra,sun,12-01-2025,,,,
+592,83,Em_112,Pragya Watti,sun,12-01-2025,,,,
+593,84,P_101,Manish,sun,12-01-2025,,,,
+594,85,P_101,Manish,mon,13-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+595,86,Em_101,Shruti Jain,mon,13-01-2025,10:15:00,19:30:00,09:15:00,Full Day
+596,87,Em_102,Ayul Jain,mon,13-01-2025,10:15:00,19:30:00,09:15:00,Full Day
+597,88,Em_111,Isha Jaiswal,mon,13-01-2025,11:00:00,19:30:00,08:30:00,Full Day
+598,89,Em_110,Priyanka Sharma,mon,13-01-2025,,,,Leave
+599,90,Em_108,Akhil Mishra,mon,13-01-2025,,,,Leave
+600,91,Em_112,Pragya Watti,mon,13-01-2025,,,,Leave
+601,92,P_101,Manish,tue,14-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+602,93,Em_101,Shruti Jain,tue,14-01-2025,10:30:00,19:38:00,09:08:00,Full Day
+603,94,Em_108,Akhil Mishra,tue,14-01-2025,,,,
+604,95,Em_111,Isha Jaiswal,tue,14-01-2025,11:00:00,19:00:00,08:00:00,Full Day
+605,96,Em_112,Pragya Watti,tue,14-01-2025,11:30:00,19:10:00,07:40:00,Half Day
+606,97,Em_110,Priyanka Sharma,tue,14-01-2025,,,,Leave
+607,98,Em_102,Ayul Jain,tue,14-01-2025,13:00:00,19:38:00,06:38:00,Half Day
+608,99,P_101,Manish,wed,15-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+609,100,Em_101,Shruti Jain,wed,15-01-2025,10:30:00,19:15:00,08:45:00,Full Day
+610,101,Em_111,Isha Jaiswal,wed,15-01-2025,10:35:00,19:30:00,08:55:00,Full Day
+611,102,Em_108,Akhil Mishra,wed,15-01-2025,,,,
+612,103,Em_112,Pragya Watti,wed,15-01-2025,11:29:00,19:34:00,08:05:00,Half Day
+613,104,Em_110,Priyanka Sharma,wed,15-01-2025,,,,Leave
+614,105,Em_102,Ayul Jain,wed,15-01-2025,14:30:00,19:15:00,04:45:00,Half Day
+615,106,P_101,Manish,thu,16-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+616,107,Em_101,Shruti Jain,thu,16-01-2025,10:30:00,19:45:00,09:15:00,Full Day
+617,108,Em_111,Isha Jaiswal,thu,16-01-2025,10:35:00,19:30:00,08:55:00,Full Day
+618,109,Em_108,Akhil Mishra,thu,16-01-2025,,,,
+619,110,Em_112,Pragya Watti,thu,16-01-2025,11:30:00,19:19:00,07:49:00,Half Day
+620,111,Em_110,Priyanka Sharma,thu,16-01-2025,,,,Leave
+621,112,Em_102,Ayul Jain,thu,16-01-2025,15:00:00,19:45:00,04:45:00,Half Day
+622,113,P_101,Manish,fri,17-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+623,114,Em_101,Shruti Jain,fri,17-01-2025,10:10:00,20:00:00,09:50:00,Full Day
+624,115,Em_111,Isha Jaiswal,fri,17-01-2025,10:35:00,19:30:00,08:55:00,Full Day
+625,116,Em_108,Akhil Mishra,fri,17-01-2025,,,,
+626,117,Em_112,Pragya Watti,fri,17-01-2025,11:40:00,19:11:00,07:31:00,Half Day
+627,118,Em_102,Ayul Jain,fri,17-01-2025,,,,Leave
+628,119,Em_110,Priyanka Sharma,fri,17-01-2025,,,,Leave
+629,120,P_101,Manish,sat,18-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+630,121,Em_101,Shruti Jain,sat,18-01-2025,10:30:00,19:00:00,08:30:00,Full Day
+631,122,Em_102,Ayul Jain,sat,18-01-2025,10:30:00,19:00:00,08:30:00,Full Day
+632,123,Em_111,Isha Jaiswal,sat,18-01-2025,10:40:00,19:15:00,08:35:00,Full Day
+633,124,Em_108,Akhil Mishra,sat,18-01-2025,,,,
+634,125,Em_112,Pragya Watti,sat,18-01-2025,11:35:00,19:10:00,07:35:00,Half Day
+635,126,Em_110,Priyanka Sharma,sat,18-01-2025,,,,Leave
+636,127,Em_101,Shruti Jain,sun,19-01-2025,,,,
+637,128,Em_102,Ayul Jain,sun,19-01-2025,,,,
+638,129,Em_111,Isha Jaiswal,sun,19-01-2025,,,,
+639,130,Em_108,Akhil Mishra,sun,19-01-2025,,,,
+640,131,Em_112,Pragya Watti,sun,19-01-2025,,,,
+641,132,P_101,Manish,sun,19-01-2025,,,,
+642,133,Em_110,Priyanka Sharma,sun,19-01-2025,,,,Leave
+643,134,P_101,Manish,mon,20-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+644,135,Em_111,Isha Jaiswal,mon,20-01-2025,10:25:00,19:15:00,08:50:00,Full Day
+645,136,Em_101,Shruti Jain,mon,20-01-2025,10:30:00,20:30:00,10:00:00,Full Day
+646,137,Em_102,Ayul Jain,mon,20-01-2025,10:30:00,20:30:00,10:00:00,Full Day
+647,138,Em_108,Akhil Mishra,mon,20-01-2025,,,,
+648,139,Em_112,Pragya Watti,mon,20-01-2025,11:30:00,19:40:00,08:10:00,Half Day
+649,140,Em_110,Priyanka Sharma,mon,20-01-2025,,,,Leave
+650,141,P_101,Manish,tue,21-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+651,142,Em_101,Shruti Jain,tue,21-01-2025,10:30:00,19:20:00,08:50:00,Full Day
+652,143,Em_102,Ayul Jain,tue,21-01-2025,10:30:00,19:20:00,08:50:00,Full Day
+653,144,Em_111,Isha Jaiswal,tue,21-01-2025,10:32:00,19:20:00,08:48:00,Full Day
+654,145,Em_108,Akhil Mishra,tue,21-01-2025,,,,
+655,146,Em_112,Pragya Watti,tue,21-01-2025,11:24:00,19:40:00,08:16:00,Half Day
+656,147,Em_110,Priyanka Sharma,tue,21-01-2025,,,,Leave
+657,148,P_101,Manish,wed,22-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+658,149,Em_101,Shruti Jain,wed,22-01-2025,10:30:00,19:39:00,09:09:00,Full Day
+659,150,Em_102,Ayul Jain,wed,22-01-2025,10:30:00,19:39:00,09:09:00,Full Day
+660,151,Em_111,Isha Jaiswal,wed,22-01-2025,10:33:00,19:00:00,08:27:00,Full Day
+661,152,Em_108,Akhil Mishra,wed,22-01-2025,,,,
+662,153,Em_112,Pragya Watti,wed,22-01-2025,11:30:00,21:00:00,09:30:00,Full Day
+663,154,Em_110,Priyanka Sharma,wed,22-01-2025,,,,Leave
+664,155,P_101,Manish,thu,23-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+665,156,Em_101,Shruti Jain,thu,23-01-2025,10:30:00,19:40:00,09:10:00,Full Day
+666,157,Em_102,Ayul Jain,thu,23-01-2025,10:30:00,19:40:00,09:10:00,Full Day
+667,158,Em_112,Pragya Watti,thu,23-01-2025,10:30:00,20:00:00,09:30:00,Full Day
+668,159,Em_111,Isha Jaiswal,thu,23-01-2025,10:48:00,19:40:00,08:52:00,Full Day
+669,160,Em_110,Priyanka Sharma,thu,23-01-2025,Leave,Leave,01:00:00,Half Day
+670,161,Em_108,Akhil Mishra,thu,23-01-2025,,,,
+671,162,P_101,Manish,fri,24-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+672,163,Em_101,Shruti Jain,fri,24-01-2025,10:30:00,19:10:00,08:40:00,Full Day
+673,164,Em_102,Ayul Jain,fri,24-01-2025,10:30:00,19:10:00,08:40:00,Full Day
+674,165,Em_112,Pragya Watti,fri,24-01-2025,10:30:00,20:00:00,09:30:00,Full Day
+675,166,Em_111,Isha Jaiswal,fri,24-01-2025,10:32:00,19:00:00,08:28:00,Full Day
+676,167,Em_108,Akhil Mishra,fri,24-01-2025,,,,
+677,168,Em_110,Priyanka Sharma,fri,24-01-2025,,,,Leave
+678,169,P_101,Manish,sat,25-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+679,170,Em_101,Shruti Jain,sat,25-01-2025,10:30:00,19:50:00,09:20:00,Full Day
+680,171,Em_102,Ayul Jain,sat,25-01-2025,10:30:00,19:50:00,09:20:00,Full Day
+681,172,Em_112,Pragya Watti,sat,25-01-2025,10:30:00,19:59:00,09:29:00,Full Day
+682,173,Em_111,Isha Jaiswal,sat,25-01-2025,10:32:00,19:50:00,09:18:00,Full Day
+683,174,Em_108,Akhil Mishra,sat,25-01-2025,,,,
+684,175,Em_110,Priyanka Sharma,sat,25-01-2025,,,,Leave
+685,176,Em_101,Shruti Jain,sun,26-01-2025,,,,
+686,177,Em_102,Ayul Jain,sun,26-01-2025,,,,
+687,178,Em_111,Isha Jaiswal,sun,26-01-2025,,,,
+688,179,Em_108,Akhil Mishra,sun,26-01-2025,,,,
+689,180,Em_112,Pragya Watti,sun,26-01-2025,,,,
+690,181,P_101,Manish,sun,26-01-2025,,,,
+691,182,Em_110,Priyanka Sharma,sun,26-01-2025,,,,Leave
+692,183,P_101,Manish,mon,27-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+693,184,Em_101,Shruti Jain,mon,27-01-2025,10:27:00,19:28:00,09:01:00,Full Day
+694,185,Em_102,Ayul Jain,mon,27-01-2025,10:30:00,19:28:00,08:58:00,Full Day
+695,186,Em_111,Isha Jaiswal,mon,27-01-2025,10:30:00,19:30:00,09:00:00,Full Day
+696,187,Em_112,Pragya Watti,mon,27-01-2025,10:30:00,20:00:00,09:30:00,Full Day
+697,188,Em_108,Akhil Mishra,mon,27-01-2025,,,,
+698,189,Em_110,Priyanka Sharma,mon,27-01-2025,,,,Leave
+699,190,P_101,Manish,tue,28-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+700,191,Em_101,Shruti Jain,tue,28-01-2025,10:27:00,19:30:00,09:03:00,Full Day
+701,192,Em_102,Ayul Jain,tue,28-01-2025,10:27:00,19:30:00,09:03:00,Full Day
+702,193,Em_111,Isha Jaiswal,tue,28-01-2025,10:30:00,19:00:00,08:30:00,Full Day
+703,194,Em_112,Pragya Watti,tue,28-01-2025,10:30:00,20:23:00,09:53:00,Full Day
+704,195,Em_108,Akhil Mishra,tue,28-01-2025,,,,
+705,196,Em_110,Priyanka Sharma,tue,28-01-2025,,,,Leave
+706,197,P_101,Manish,wed,29-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+707,198,Em_101,Shruti Jain,wed,29-01-2025,10:22:00,19:43:00,09:21:00,Full Day
+708,199,Em_102,Ayul Jain,wed,29-01-2025,10:22:00,19:43:00,09:21:00,Full Day
+709,200,Em_111,Isha Jaiswal,wed,29-01-2025,10:30:00,19:20:00,08:50:00,Full Day
+710,201,Em_108,Akhil Mishra,wed,29-01-2025,,,,
+711,202,Em_110,Priyanka Sharma,wed,29-01-2025,,,,Leave
+712,203,Em_112,Pragya Watti,wed,29-01-2025,,,,Leave
+713,204,P_101,Manish,thu,30-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+714,205,Em_101,Shruti Jain,thu,30-01-2025,10:30:00,20:00:00,09:30:00,Full Day
+715,206,Em_102,Ayul Jain,thu,30-01-2025,10:30:00,20:00:00,09:30:00,Full Day
+716,207,Em_111,Isha Jaiswal,thu,30-01-2025,10:30:00,19:30:00,09:00:00,Full Day
+717,208,Em_112,Pragya Watti,thu,30-01-2025,10:30:00,19:35:00,09:05:00,Full Day
+718,209,Em_108,Akhil Mishra,thu,30-01-2025,,,,
+719,210,Em_110,Priyanka Sharma,thu,30-01-2025,,,,Leave
+720,211,P_101,Manish,fri,31-01-2025,10:00:00,20:00:00,10:00:00,Full Day
+721,212,Em_101,Shruti Jain,fri,31-01-2025,10:20:00,20:00:00,09:40:00,Full Day
+722,213,Em_102,Ayul Jain,fri,31-01-2025,10:20:00,20:00:00,09:40:00,Full Day
+723,214,Em_112,Pragya Watti,fri,31-01-2025,10:25:00,19:46:00,09:21:00,Full Day
+724,215,Em_111,Isha Jaiswal,fri,31-01-2025,10:30:00,19:30:00,09:00:00,Full Day
+725,216,Em_110,Priyanka Sharma,fri,31-01-2025,,,,Leave
+726,217,Em_108,Akhil Mishra,fri,31-01-2025,,,,Leave
+727,1,P_101,Manish,Sat,01-02-2025,10:00:00,20:00:00,10:00:00,Full Day
+728,2,Em_101,Shruti Jain,Sat,01-02-2025,10:30:00,20:00:00,09:30:00,Full Day
+729,3,Em_102,Ayul Jain,Sat,01-02-2025,10:30:00,20:00:00,09:30:00,Full Day
+730,4,Em_111,Isha Jaiswal,Sat,01-02-2025,10:30:00,19:15:00,08:45:00,Full Day
+731,5,Em_112,Pragya Watti,Sat,01-02-2025,10:30:00,18:15:00,07:45:00,Half Day
+732,6,Em_113,Aayushi Tiwari,Sat,01-02-2025,,,,
+733,7,Em_108,Akhil Mishra,Sat,01-02-2025,,,,
+734,8,Em_114,Diya Jain,Sat,01-02-2025,,,,
+735,9,Em_115,Shoaib Adil khan,Sat,01-02-2025,,,,
+736,10,Em_101,Shruti Jain,Sun,02-02-2025,,,,Holiday
+737,11,Em_102,Ayul Jain,Sun,02-02-2025,,,,Holiday
+738,12,Em_113,Aayushi Tiwari,Sun,02-02-2025,,,,Holiday
+739,13,Em_111,Isha Jaiswal,Sun,02-02-2025,,,,Holiday
+740,14,Em_108,Akhil Mishra,Sun,02-02-2025,,,,Holiday
+741,15,Em_112,Pragya Watti,Sun,02-02-2025,,,,Holiday
+742,16,Em_114,Diya Jain,Sun,02-02-2025,,,,Holiday
+743,17,P_101,Manish,Sun,02-02-2025,,,,Holiday
+744,18,Em_115,Shoaib Adil khan,Sun,02-02-2025,,,,Holiday
+745,19,P_101,Manish,Mon,03-02-2025,10:00:00,19:47:00,09:47:00,Full Day
+746,20,Em_101,Shruti Jain,Mon,03-02-2025,10:28:00,19:00:00,08:32:00,Full Day
+747,21,Em_102,Ayul Jain,Mon,03-02-2025,10:28:00,19:00:00,08:32:00,Full Day
+748,22,Em_111,Isha Jaiswal,Mon,03-02-2025,10:30:00,19:00:00,08:30:00,Full Day
+749,23,Em_112,Pragya Watti,Mon,03-02-2025,10:30:00,19:55:00,09:25:00,Full Day
+750,24,Em_113,Aayushi Tiwari,Mon,03-02-2025,,,,
+751,25,Em_108,Akhil Mishra,Mon,03-02-2025,,,,
+752,26,Em_114,Diya Jain,Mon,03-02-2025,,,,
+753,27,Em_115,Shoaib Adil khan,Mon,03-02-2025,,,,
+754,28,P_101,Manish,Tue,04-02-2025,10:00:00,20:00:00,10:00:00,Full Day
+755,29,Em_101,Shruti Jain,Tue,04-02-2025,10:27:00,21:10:00,10:43:00,Full Day
+756,30,Em_102,Ayul Jain,Tue,04-02-2025,10:27:00,21:10:00,10:43:00,Full Day
+757,31,Em_111,Isha Jaiswal,Tue,04-02-2025,10:30:00,19:30:00,09:00:00,Full Day
+758,32,Em_112,Pragya Watti,Tue,04-02-2025,10:30:00,20:20:00,09:50:00,Full Day
+759,33,Em_113,Aayushi Tiwari,Tue,04-02-2025,11:15:00,19:30:00,08:15:00,Half Day
+760,34,Em_115,Shoaib Adil khan,Tue,04-02-2025,11:30:00,16:00:00,04:30:00,Half Day
+761,35,Em_108,Akhil Mishra,Tue,04-02-2025,,,,
+762,36,Em_114,Diya Jain,Tue,04-02-2025,,,,
+763,37,P_101,Manish,Wed,05-02-2025,10:00:00,20:00:00,10:00:00,Full Day
+764,38,Em_112,Pragya Watti,Wed,05-02-2025,10:25:00,20:00:00,09:35:00,Full Day
+765,39,Em_101,Shruti Jain,Wed,05-02-2025,10:27:00,20:00:00,09:33:00,Full Day
+766,40,Em_102,Ayul Jain,Wed,05-02-2025,10:27:00,20:00:00,09:33:00,Full Day
+767,41,Em_111,Isha Jaiswal,Wed,05-02-2025,10:30:00,17:00:00,06:30:00,Half Day
+768,42,Em_113,Aayushi Tiwari,Wed,05-02-2025,11:00:00,16:00:00,05:00:00,Half Day
+769,43,Em_115,Shoaib Adil khan,Wed,05-02-2025,11:30:00,17:30:00,06:00:00,Half Day
+770,44,Em_108,Akhil Mishra,Wed,05-02-2025,,,,
+771,45,Em_114,Diya Jain,Wed,05-02-2025,,,,
+772,46,P_101,Manish,Thu,06-02-2025,10:00:00,19:40:00,09:40:00,Full Day
+773,47,Em_101,Shruti Jain,Thu,06-02-2025,10:30:00,19:46:00,09:16:00,Full Day
+774,48,Em_102,Ayul Jain,Thu,06-02-2025,10:30:00,19:46:00,09:16:00,Full Day
+775,49,Em_111,Isha Jaiswal,Thu,06-02-2025,10:30:00,19:00:00,08:30:00,Full Day
+776,50,Em_112,Pragya Watti,Thu,06-02-2025,10:35:00,19:35:00,09:00:00,Full Day
+777,51,Em_115,Shoaib Adil khan,Thu,06-02-2025,11:25:00,17:30:00,06:05:00,Half Day
+778,52,Em_113,Aayushi Tiwari,Thu,06-02-2025,,,,
+779,53,Em_108,Akhil Mishra,Thu,06-02-2025,,,,
+780,54,Em_114,Diya Jain,Thu,06-02-2025,,,,
+781,55,P_101,Manish,Fri,07-02-2025,10:00:00,19:52:00,09:52:00,Full Day
+782,56,Em_101,Shruti Jain,Fri,07-02-2025,10:30:00,20:00:00,09:30:00,Full Day
+783,57,Em_102,Ayul Jain,Fri,07-02-2025,10:30:00,20:00:00,09:30:00,Full Day
+784,58,Em_111,Isha Jaiswal,Fri,07-02-2025,10:30:00,19:30:00,09:00:00,Full Day
+785,59,Em_112,Pragya Watti,Fri,07-02-2025,10:35:00,20:00:00,09:25:00,Full Day
+786,60,Em_115,Shoaib Adil khan,Fri,07-02-2025,11:35:00,18:00:00,06:25:00,Half Day
+787,61,Em_113,Aayushi Tiwari,Fri,07-02-2025,,,,
+788,62,Em_108,Akhil Mishra,Fri,07-02-2025,,,,
+789,63,Em_114,Diya Jain,Fri,07-02-2025,,,,
+790,64,P_101,Manish,Sat,08-02-2025,10:00:00,19:00:00,09:00:00,Full Day
+791,65,Em_112,Pragya Watti,Sat,08-02-2025,10:25:00,19:00:00,08:35:00,Full Day
+792,66,Em_101,Shruti Jain,Sat,08-02-2025,10:27:00,20:00:00,09:33:00,Full Day
+793,67,Em_102,Ayul Jain,Sat,08-02-2025,10:27:00,20:00:00,09:33:00,Full Day
+794,68,Em_111,Isha Jaiswal,Sat,08-02-2025,10:30:00,19:00:00,08:30:00,Full Day
+795,69,Em_115,Shoaib Adil khan,Sat,08-02-2025,12:10:00,18:00:00,05:50:00,Half Day
+796,70,Em_113,Aayushi Tiwari,Sat,08-02-2025,,,,
+797,71,Em_108,Akhil Mishra,Sat,08-02-2025,,,,
+798,72,Em_114,Diya Jain,Sat,08-02-2025,,,,
+799,73,Em_101,Shruti Jain,Sun,09-02-2025,,,,Holiday
+800,74,Em_102,Ayul Jain,Sun,09-02-2025,,,,Holiday
+801,75,Em_113,Aayushi Tiwari,Sun,09-02-2025,,,,Holiday
+802,76,Em_111,Isha Jaiswal,Sun,09-02-2025,,,,Holiday
+803,77,Em_108,Akhil Mishra,Sun,09-02-2025,,,,Holiday
+804,78,Em_112,Pragya Watti,Sun,09-02-2025,,,,Holiday
+805,79,Em_114,Diya Jain,Sun,09-02-2025,,,,Holiday
+806,80,P_101,Manish,Sun,09-02-2025,,,,Holiday
+807,81,Em_115,Shoaib Adil khan,Sun,09-02-2025,,,,Holiday
+808,82,P_101,Manish,Mon,10-02-2025,10:00:00,20:40:00,10:40:00,Full Day
+809,83,Em_101,Shruti Jain,Mon,10-02-2025,10:30:00,20:30:00,10:00:00,Full Day
+810,84,Em_111,Isha Jaiswal,Mon,10-02-2025,10:30:00,19:00:00,08:30:00,Full Day
+811,85,Em_115,Shoaib Adil khan,Mon,10-02-2025,12:45:00,18:00:00,05:15:00,Half Day
+812,86,Em_102,Ayul Jain,Mon,10-02-2025,14:30:00,20:30:00,06:00:00,Half Day
+813,87,Em_113,Aayushi Tiwari,Mon,10-02-2025,,,,
+814,88,Em_108,Akhil Mishra,Mon,10-02-2025,,,,
+815,89,Em_114,Diya Jain,Mon,10-02-2025,,,,
+816,90,Em_112,Pragya Watti,Mon,10-02-2025,,,,Leave
+817,91,P_101,Manish,Tue,11-02-2025,10:00:00,20:14:00,10:14:00,Full Day
+818,92,Em_101,Shruti Jain,Tue,11-02-2025,10:30:00,20:30:00,10:00:00,Full Day
+819,93,Em_111,Isha Jaiswal,Tue,11-02-2025,10:30:00,19:30:00,09:00:00,Full Day
+820,94,Em_112,Pragya Watti,Tue,11-02-2025,10:32:00,19:55:00,09:23:00,Full Day
+821,95,Em_115,Shoaib Adil khan,Tue,11-02-2025,11:00:00,18:00:00,07:00:00,Full Day
+822,96,Em_113,Aayushi Tiwari,Tue,11-02-2025,,,,
+823,97,Em_108,Akhil Mishra,Tue,11-02-2025,,,,
+824,98,Em_114,Diya Jain,Tue,11-02-2025,,,,
+825,99,Em_102,Ayul Jain,Tue,11-02-2025,,,,Leave
+826,100,P_101,Manish,Wed,12-02-2025,10:00:00,19:40:00,09:40:00,Full Day
+827,101,Em_112,Pragya Watti,Wed,12-02-2025,10:25:00,19:40:00,09:15:00,Full Day
+828,102,Em_101,Shruti Jain,Wed,12-02-2025,10:30:00,20:30:00,10:00:00,Full Day
+829,103,Em_115,Shoaib Adil khan,Wed,12-02-2025,10:33:00,17:30:00,06:57:00,Half Day
+830,104,Em_111,Isha Jaiswal,Wed,12-02-2025,11:00:00,19:00:00,08:00:00,Full Day
+831,105,Em_113,Aayushi Tiwari,Wed,12-02-2025,,,,
+832,106,Em_108,Akhil Mishra,Wed,12-02-2025,,,,
+833,107,Em_114,Diya Jain,Wed,12-02-2025,,,,
+834,108,Em_102,Ayul Jain,Wed,12-02-2025,,,,Leave
+835,109,P_101,Manish,Thu,13-02-2025,10:00:00,19:30:00,09:30:00,Full Day
+836,110,Em_111,Isha Jaiswal,Thu,13-02-2025,10:30:00,19:00:00,08:30:00,Full Day
+837,111,Em_112,Pragya Watti,Thu,13-02-2025,10:35:00,19:35:00,09:00:00,Full Day
+838,112,Em_101,Shruti Jain,Thu,13-02-2025,11:00:00,19:46:00,08:46:00,Full Day
+839,113,Em_115,Shoaib Adil khan,Thu,13-02-2025,11:45:00,18:00:00,06:15:00,Half Day
+840,114,Em_113,Aayushi Tiwari,Thu,13-02-2025,,,,
+841,115,Em_108,Akhil Mishra,Thu,13-02-2025,,,,
+842,116,Em_114,Diya Jain,Thu,13-02-2025,,,,
+843,117,Em_102,Ayul Jain,Thu,13-02-2025,,,,Leave
+844,118,Em_101,Shruti Jain,Fri,14-02-2025,10:30:00,19:22:00,08:52:00,Full Day
+845,119,Em_111,Isha Jaiswal,Fri,14-02-2025,10:30:00,19:00:00,08:30:00,Full Day
+846,120,Em_112,Pragya Watti,Fri,14-02-2025,11:00:00,19:30:00,08:30:00,Half Day
+847,121,Em_113,Aayushi Tiwari,Fri,14-02-2025,,,,
+848,122,Em_108,Akhil Mishra,Fri,14-02-2025,,,,
+849,123,Em_114,Diya Jain,Fri,14-02-2025,,,,
+850,124,Em_102,Ayul Jain,Fri,14-02-2025,,,,Leave
+851,125,P_101,Manish,Fri,14-02-2025,,,,Leave
+852,126,Em_115,Shoaib Adil khan,Fri,14-02-2025,,,,Leave
+853,127,P_101,Manish,Sat,15-02-2025,10:00:00,20:00:00,10:00:00,Full Day
+854,128,Em_101,Shruti Jain,Sat,15-02-2025,10:30:00,20:00:00,09:30:00,Full Day
+855,129,Em_111,Isha Jaiswal,Sat,15-02-2025,10:30:00,19:00:00,08:30:00,Full Day
+856,130,Em_114,Diya Jain,Sat,15-02-2025,,,,
+857,131,Em_102,Ayul Jain,Sat,15-02-2025,,,,Leave
+858,132,Em_113,Aayushi Tiwari,Sat,15-02-2025,,,,Leave
+859,133,Em_108,Akhil Mishra,Sat,15-02-2025,,,,Leave
+860,134,Em_112,Pragya Watti,Sat,15-02-2025,,,,Leave
+861,135,Em_115,Shoaib Adil khan,Sat,15-02-2025,,,,Leave
+862,136,Em_101,Shruti Jain,Sun,16-02-2025,,,,Holiday
+863,137,Em_102,Ayul Jain,Sun,16-02-2025,,,,Holiday
+864,138,Em_113,Aayushi Tiwari,Sun,16-02-2025,,,,Holiday
+865,139,Em_111,Isha Jaiswal,Sun,16-02-2025,,,,Holiday
+866,140,Em_108,Akhil Mishra,Sun,16-02-2025,,,,Holiday
+867,141,Em_112,Pragya Watti,Sun,16-02-2025,,,,Holiday
+868,142,Em_114,Diya Jain,Sun,16-02-2025,,,,Holiday
+869,143,P_101,Manish,Sun,16-02-2025,,,,Holiday
+870,144,Em_115,Shoaib Adil khan,Sun,16-02-2025,,,,Holiday
+871,145,Em_101,Shruti Jain,Mon,17-02-2025,09:10:00,19:46:00,10:36:00,Full Day
+872,146,Em_114,Diya Jain,Mon,17-02-2025,10:20:00,19:28:00,09:08:00,Full Day
+873,147,Em_112,Pragya Watti,Mon,17-02-2025,10:45:00,19:50:00,09:05:00,Full Day
+874,148,Em_113,Aayushi Tiwari,Mon,17-02-2025,12:00:00,20:00:00,08:00:00,Half Day
+875,149,Em_102,Ayul Jain,Mon,17-02-2025,,,,Leave
+876,150,Em_111,Isha Jaiswal,Mon,17-02-2025,,,,Leave
+877,151,Em_108,Akhil Mishra,Mon,17-02-2025,,,,Leave
+878,152,P_101,Manish,Mon,17-02-2025,,,,Leave
+879,153,Em_115,Shoaib Adil khan,Mon,17-02-2025,,,,Leave
+880,154,P_101,Manish,Tue,18-02-2025,10:00:00,20:01:00,10:01:00,Full Day
+881,155,Em_101,Shruti Jain,Tue,18-02-2025,10:10:00,20:00:00,09:50:00,Full Day
+882,156,Em_114,Diya Jain,Tue,18-02-2025,10:28:00,19:18:00,08:50:00,Full Day
+883,157,Em_111,Isha Jaiswal,Tue,18-02-2025,10:30:00,19:00:00,08:30:00,Full Day
+884,158,Em_112,Pragya Watti,Tue,18-02-2025,10:30:00,19:40:00,09:10:00,Full Day
+885,159,Em_113,Aayushi Tiwari,Tue,18-02-2025,11:30:00,,12:28:00,Full Day
+886,160,Em_102,Ayul Jain,Tue,18-02-2025,,,,Leave
+887,161,Em_108,Akhil Mishra,Tue,18-02-2025,,,,Leave
+888,162,Em_115,Shoaib Adil khan,Tue,18-02-2025,,,,Leave
+889,163,P_101,Manish,Wed,19-02-2025,10:00:00,20:01:00,10:01:00,Full Day
+890,164,Em_115,Shoaib Adil khan,Wed,19-02-2025,10:00:00,18:00:00,08:00:00,Full Day
+891,165,Em_101,Shruti Jain,Wed,19-02-2025,10:20:00,21:00:00,10:40:00,Full Day
+892,166,Em_114,Diya Jain,Wed,19-02-2025,10:22:00,19:34:00,09:12:00,Full Day
+893,167,Em_112,Pragya Watti,Wed,19-02-2025,10:35:00,20:11:00,09:36:00,Full Day
+894,168,Em_111,Isha Jaiswal,Wed,19-02-2025,11:00:00,19:15:00,08:15:00,Full Day
+895,169,Em_113,Aayushi Tiwari,Wed,19-02-2025,12:00:00,19:00:00,07:00:00,Half Day
+896,170,Em_102,Ayul Jain,Wed,19-02-2025,,,,Leave
+897,171,Em_108,Akhil Mishra,Wed,19-02-2025,,,,Leave
+898,172,P_101,Manish,Thu,20-02-2025,10:00:00,19:40:00,09:40:00,Full Day
+899,173,Em_115,Shoaib Adil khan,Thu,20-02-2025,10:00:00,18:00:00,08:00:00,Full Day
+900,174,Em_101,Shruti Jain,Thu,20-02-2025,10:10:00,21:00:00,10:50:00,Full Day
+901,175,Em_114,Diya Jain,Thu,20-02-2025,10:20:00,19:34:00,09:14:00,Full Day
+902,176,Em_112,Pragya Watti,Thu,20-02-2025,10:35:00,20:13:00,09:38:00,Full Day
+903,177,Em_111,Isha Jaiswal,Thu,20-02-2025,11:00:00,19:23:00,08:23:00,Full Day
+904,178,Em_113,Aayushi Tiwari,Thu,20-02-2025,12:55:00,19:00:00,06:05:00,Half Day
+905,179,Em_102,Ayul Jain,Thu,20-02-2025,,,,Leave
+906,180,Em_108,Akhil Mishra,Thu,20-02-2025,,,,Leave
+907,181,P_101,Manish,Fri,21-02-2025,10:00:00,20:01:00,10:01:00,Full Day
+908,182,Em_101,Shruti Jain,Fri,21-02-2025,10:10:00,21:00:00,10:50:00,Full Day
+909,183,Em_114,Diya Jain,Fri,21-02-2025,10:10:00,19:15:00,09:05:00,Full Day
+910,184,Em_112,Pragya Watti,Fri,21-02-2025,10:40:00,20:09:00,09:29:00,Full Day
+911,185,Em_115,Shoaib Adil khan,Fri,21-02-2025,11:10:00,18:00:00,06:50:00,Half Day
+912,186,Em_111,Isha Jaiswal,Fri,21-02-2025,11:48:00,19:30:00,07:42:00,Half Day
+913,187,Em_113,Aayushi Tiwari,Fri,21-02-2025,12:04:00,,11:54:00,Full Day
+914,188,Em_102,Ayul Jain,Fri,21-02-2025,,,,Leave
+915,189,Em_108,Akhil Mishra,Fri,21-02-2025,,,,Leave
+916,190,P_101,Manish,Sat,22-02-2025,10:00:00,20:01:00,10:01:00,Full Day
+917,191,Em_101,Shruti Jain,Sat,22-02-2025,10:10:00,20:00:00,09:50:00,Full Day
+918,192,Em_114,Diya Jain,Sat,22-02-2025,10:22:00,19:35:00,09:13:00,Full Day
+919,193,Em_111,Isha Jaiswal,Sat,22-02-2025,10:35:00,19:25:00,08:50:00,Full Day
+920,194,Em_112,Pragya Watti,Sat,22-02-2025,11:00:00,20:12:00,09:12:00,Full Day
+921,195,Em_115,Shoaib Adil khan,Sat,22-02-2025,11:15:00,16:30:00,05:15:00,Half Day
+922,196,Em_113,Aayushi Tiwari,Sat,22-02-2025,,,,
+923,197,Em_102,Ayul Jain,Sat,22-02-2025,,,,Leave
+924,198,Em_108,Akhil Mishra,Sat,22-02-2025,,,,Leave
+925,199,Em_101,Shruti Jain,Sun,23-02-2025,,,,Holiday
+926,200,Em_102,Ayul Jain,Sun,23-02-2025,,,,Holiday
+927,201,Em_113,Aayushi Tiwari,Sun,23-02-2025,,,,Holiday
+928,202,Em_111,Isha Jaiswal,Sun,23-02-2025,,,,Holiday
+929,203,Em_108,Akhil Mishra,Sun,23-02-2025,,,,Holiday
+930,204,Em_112,Pragya Watti,Sun,23-02-2025,,,,Holiday
+931,205,Em_114,Diya Jain,Sun,23-02-2025,,,,Holiday
+932,206,P_101,Manish,Sun,23-02-2025,,,,Holiday
+933,207,Em_115,Shoaib Adil khan,Sun,23-02-2025,,,,Holiday
+934,208,Em_111,Isha Jaiswal,Mon,24-02-2025,10:35:00,19:30:00,08:55:00,Full Day
+935,209,Em_112,Pragya Watti,Mon,24-02-2025,10:35:00,20:02:00,09:27:00,Full Day
+936,210,Em_115,Shoaib Adil khan,Mon,24-02-2025,11:30:00,15:00:00,03:30:00,Half Day
+937,211,Em_113,Aayushi Tiwari,Mon,24-02-2025,,,,
+938,212,Em_101,Shruti Jain,Mon,24-02-2025,,,,Leave
+939,213,Em_102,Ayul Jain,Mon,24-02-2025,,,,Leave
+940,214,Em_108,Akhil Mishra,Mon,24-02-2025,,,,Leave
+941,215,Em_114,Diya Jain,Mon,24-02-2025,,,,Leave
+942,216,P_101,Manish,Mon,24-02-2025,,,,Leave
+943,217,P_101,Manish,Tue,25-02-2025,10:00:00,20:01:00,10:01:00,Full Day
+944,218,Em_101,Shruti Jain,Tue,25-02-2025,10:30:00,19:15:00,08:45:00,Full Day
+945,219,Em_112,Pragya Watti,Tue,25-02-2025,10:30:00,19:15:00,08:45:00,Full Day
+946,220,Em_114,Diya Jain,Tue,25-02-2025,10:30:00,19:10:00,08:40:00,Full Day
+947,221,Em_111,Isha Jaiswal,Tue,25-02-2025,10:35:00,19:25:00,08:50:00,Full Day
+948,222,Em_115,Shoaib Adil khan,Tue,25-02-2025,11:30:00,15:30:00,04:00:00,Half Day
+949,223,Em_113,Aayushi Tiwari,Tue,25-02-2025,,,,
+950,224,Em_102,Ayul Jain,Tue,25-02-2025,,,,Leave
+951,225,Em_108,Akhil Mishra,Tue,25-02-2025,,,,Leave
+952,226,Em_101,Shruti Jain,Wed,26-02-2025,,,,
+953,227,Em_102,Ayul Jain,Wed,26-02-2025,,,,
+954,228,Em_113,Aayushi Tiwari,Wed,26-02-2025,,,,
+955,229,Em_111,Isha Jaiswal,Wed,26-02-2025,,,,
+956,230,Em_108,Akhil Mishra,Wed,26-02-2025,,,,
+957,231,Em_112,Pragya Watti,Wed,26-02-2025,,,,
+958,232,Em_114,Diya Jain,Wed,26-02-2025,,,,
+959,233,P_101,Manish,Wed,26-02-2025,,,,
+960,234,Em_115,Shoaib Adil khan,Wed,26-02-2025,,,,
+961,235,P_101,Manish,Thu,27-02-2025,10:00:00,20:01:00,10:01:00,Full Day
+962,236,Em_101,Shruti Jain,Thu,27-02-2025,10:20:00,19:00:00,08:40:00,Full Day
+963,237,Em_114,Diya Jain,Thu,27-02-2025,10:20:00,19:08:00,08:48:00,Full Day
+964,238,Em_111,Isha Jaiswal,Thu,27-02-2025,10:30:00,19:00:00,08:30:00,Full Day
+965,239,Em_112,Pragya Watti,Thu,27-02-2025,10:39:00,19:36:00,08:57:00,Half Day
+966,240,Em_115,Shoaib Adil khan,Thu,27-02-2025,12:00:00,17:00:00,05:00:00,Half Day
+967,241,Em_113,Aayushi Tiwari,Thu,27-02-2025,,,,
+968,242,Em_102,Ayul Jain,Thu,27-02-2025,,,,Leave
+969,243,Em_108,Akhil Mishra,Thu,27-02-2025,,,,Leave
+970,244,P_101,Manish,Fri,28-02-2025,10:00:00,20:01:00,10:01:00,Full Day
+971,245,Em_101,Shruti Jain,Fri,28-02-2025,10:05:00,18:55:00,08:50:00,Full Day
+972,246,Em_114,Diya Jain,Fri,28-02-2025,10:15:00,19:00:00,08:45:00,Full Day
+973,247,Em_112,Pragya Watti,Fri,28-02-2025,10:32:00,19:45:00,09:13:00,Full Day
+974,248,Em_115,Shoaib Adil khan,Fri,28-02-2025,12:00:00,17:00:00,05:00:00,Half Day
+975,249,Em_113,Aayushi Tiwari,Fri,28-02-2025,,,,
+976,250,Em_102,Ayul Jain,Fri,28-02-2025,,,,Leave
+977,251,Em_111,Isha Jaiswal,Fri,28-02-2025,,,,Leave
+978,252,Em_108,Akhil Mishra,Fri,28-02-2025,,,,Leave
+979,1,Em_101,Shruti Jain,Sat,01-03-2025,10:00:00,19:00:00,09:00:00,Full Day
+980,2,Em_114,Diya Jain,Sat,01-03-2025,10:22:00,19:00:00,08:38:00,Full Day
+981,3,Em_115,Shoaib Adil khan,Sat,01-03-2025,10:30:00,18:00:00,07:30:00,Full Day
+982,4,Em_112,Pragya Watti,Sat,01-03-2025,10:45:00,19:20:00,08:35:00,Half Day
+983,5,Em_113,Aayushi Tiwari,Sat,01-03-2025,11:30:00,19:38:00,08:08:00,Half Day
+984,6,Em_108,Akhil Mishra,Sat,01-03-2025,,,,Leave
+985,7,Em_101,Shruti Jain,Sun,02-03-2025,,,,Holiday
+986,8,Em_114,Diya Jain,Sun,02-03-2025,,,,Holiday
+987,9,Em_115,Shoaib Adil khan,Sun,02-03-2025,,,,Holiday
+988,10,Em_108,Akhil Mishra,Sun,02-03-2025,,,,Holiday
+989,11,Em_112,Pragya Watti,Sun,02-03-2025,,,,Holiday
+990,12,Em_113,Aayushi Tiwari,Sun,02-03-2025,,,,Holiday
+991,13,Em_101,Shruti Jain,Mon,03-03-2025,10:08:00,19:00:00,08:52:00,Full Day
+992,14,Em_114,Diya Jain,Mon,03-03-2025,10:20:00,18:50:00,08:30:00,Full Day
+993,15,Em_115,Shoaib Adil khan,Mon,03-03-2025,10:40:00,18:00:00,07:20:00,Full Day
+994,16,Em_108,Akhil Mishra,Mon,03-03-2025,,,,Leave
+995,17,Em_112,Pragya Watti,Mon,03-03-2025,,,,Leave
+996,18,Em_113,Aayushi Tiwari,Mon,03-03-2025,12:15:00,19:40:00,07:25:00,Half Day
+997,19,Em_101,Shruti Jain,Tue,04-03-2025,09:58:00,20:00:00,10:02:00,Full Day
+998,20,Em_114,Diya Jain,Tue,04-03-2025,10:25:00,19:00:00,08:35:00,Full Day
+999,21,Em_112,Pragya Watti,Tue,04-03-2025,10:32:00,20:04:00,09:32:00,Full Day
+1000,22,Em_115,Shoaib Adil khan,Tue,04-03-2025,10:45:00,18:05:00,07:20:00,Full Day
+1001,23,Em_113,Aayushi Tiwari,Tue,04-03-2025,11:30:00,19:45:00,08:15:00,Half Day
+1002,24,Em_108,Akhil Mishra,Tue,04-03-2025,,,,Leave
+1003,25,Em_101,Shruti Jain,Wed,05-03-2025,10:20:00,19:28:00,09:08:00,Full Day
+1004,26,Em_114,Diya Jain,Wed,05-03-2025,10:30:00,19:28:00,08:58:00,Full Day
+1005,27,Em_112,Pragya Watti,Wed,05-03-2025,10:35:00,19:30:00,08:55:00,Half Day
+1006,28,Em_115,Shoaib Adil khan,Wed,05-03-2025,11:00:00,15:45:00,04:45:00,Half Day
+1007,29,Em_113,Aayushi Tiwari,Wed,05-03-2025,,,,Leave
+1008,30,Em_108,Akhil Mishra,Wed,05-03-2025,13:00:00,20:00:00,07:00:00,Half Day
+1009,31,Em_101,Shruti Jain,Thu,06-03-2025,10:12:00,19:06:00,08:54:00,Full Day
+1010,32,Em_114,Diya Jain,Thu,06-03-2025,10:25:00,19:06:00,08:41:00,Full Day
+1011,33,Em_112,Pragya Watti,Thu,06-03-2025,10:35:00,19:47:00,09:12:00,Full Day
+1012,34,Em_115,Shoaib Adil khan,Thu,06-03-2025,11:15:00,15:50:00,04:35:00,Half Day
+1013,35,Em_113,Aayushi Tiwari,Thu,06-03-2025,,,,Leave
+1014,36,Em_108,Akhil Mishra,Thu,06-03-2025,12:00:00,20:00:00,08:00:00,Half Day
+1015,37,Em_101,Shruti Jain,Fri,07-03-2025,10:00:00,19:30:00,09:30:00,Full Day
+1016,38,Em_114,Diya Jain,Fri,07-03-2025,10:15:00,19:02:00,08:47:00,Full Day
+1017,39,Em_115,Shoaib Adil khan,Fri,07-03-2025,10:15:00,16:00:00,05:45:00,Half Day
+1018,40,Em_108,Akhil Mishra,Fri,07-03-2025,10:30:00,19:30:00,09:00:00,Full Day
+1019,41,Em_112,Pragya Watti,Fri,07-03-2025,10:43:00,15:00:00,04:17:00,Half Day
+1020,42,Em_113,Aayushi Tiwari,Fri,07-03-2025,,,,Leave
+1021,43,Em_115,Shoaib Adil khan,Sat,08-03-2025,10:10:00,15:35:00,05:25:00,Half Day
+1022,44,Em_101,Shruti Jain,Sat,08-03-2025,10:27:00,17:30:00,07:03:00,Half Day
+1023,45,Em_108,Akhil Mishra,Sat,08-03-2025,10:30:00,17:30:00,07:00:00,Half Day
+1024,46,Em_113,Aayushi Tiwari,Sat,08-03-2025,11:30:00,19:33:00,08:03:00,Half Day
+1025,47,Em_114,Diya Jain,Sat,08-03-2025,11:42:00,17:30:00,05:48:00,Half Day
+1026,48,Em_112,Pragya Watti,Sat,08-03-2025,,,,Leave
+1027,49,Em_101,Shruti Jain,Sun,09-03-2025,,,,Holiday
+1028,50,Em_114,Diya Jain,Sun,09-03-2025,,,,Holiday
+1029,51,Em_115,Shoaib Adil khan,Sun,09-03-2025,,,,Holiday
+1030,52,Em_108,Akhil Mishra,Sun,09-03-2025,,,,Holiday
+1031,53,Em_112,Pragya Watti,Sun,09-03-2025,,,,Holiday
+1032,54,Em_113,Aayushi Tiwari,Sun,09-03-2025,,,,Holiday
+1033,55,Em_101,Shruti Jain,Mon,10-03-2025,10:10:00,20:00:00,09:50:00,Full Day
+1034,56,Em_114,Diya Jain,Mon,10-03-2025,10:35:00,19:05:00,08:30:00,Full Day
+1035,57,Em_115,Shoaib Adil khan,Mon,10-03-2025,10:35:00,15:30:00,04:55:00,Half Day
+1036,58,Em_112,Pragya Watti,Mon,10-03-2025,10:35:00,20:35:00,10:00:00,Full Day
+1037,59,Em_108,Akhil Mishra,Mon,10-03-2025,10:53:00,20:00:00,09:07:00,Full Day
+1038,60,Em_113,Aayushi Tiwari,Mon,10-03-2025,11:11:00,19:40:00,08:29:00,Half Day
+1039,61,Em_101,Shruti Jain,Tue,11-03-2025,10:08:00,20:13:00,10:05:00,Full Day
+1040,62,Em_108,Akhil Mishra,Tue,11-03-2025,10:29:00,20:32:00,10:03:00,Full Day
+1041,63,Em_114,Diya Jain,Tue,11-03-2025,10:30:00,20:15:00,09:45:00,Full Day
+1042,64,Em_115,Shoaib Adil khan,Tue,11-03-2025,10:40:00,15:40:00,05:00:00,Half Day
+1043,65,Em_112,Pragya Watti,Tue,11-03-2025,10:40:00,20:15:00,09:35:00,Full Day
+1044,66,Em_113,Aayushi Tiwari,Tue,11-03-2025,11:20:00,19:40:00,08:20:00,Half Day
+1045,67,Em_101,Shruti Jain,Wed,12-03-2025,10:10:00,19:28:00,09:18:00,Full Day
+1046,68,Em_108,Akhil Mishra,Wed,12-03-2025,10:24:00,15:00:00,04:36:00,Half Day
+1047,69,Em_112,Pragya Watti,Wed,12-03-2025,10:35:00,19:40:00,09:05:00,Full Day
+1048,70,Em_114,Diya Jain,Wed,12-03-2025,10:50:00,19:28:00,08:38:00,Full Day
+1049,71,Em_115,Shoaib Adil khan,Wed,12-03-2025,11:20:00,15:45:00,04:25:00,Half Day
+1050,72,Em_113,Aayushi Tiwari,Wed,12-03-2025,11:20:00,19:40:00,08:20:00,Half Day
+1051,73,Em_115,Shoaib Adil khan,Thu,13-03-2025,10:30:00,15:30:00,05:00:00,Half Day
+1052,74,Em_112,Pragya Watti,Thu,13-03-2025,11:02:00,17:30:00,06:28:00,Half Day
+1053,75,Em_113,Aayushi Tiwari,Thu,13-03-2025,11:10:00,17:30:00,06:20:00,Half Day
+1054,76,Em_101,Shruti Jain,Thu,13-03-2025,,,,Leave
+1055,77,Em_114,Diya Jain,Thu,13-03-2025,,,,Leave
+1056,78,Em_108,Akhil Mishra,Thu,13-03-2025,,,,Leave
+1057,79,Em_101,Shruti Jain,Fri,14-03-2025,,,,
+1058,80,Em_114,Diya Jain,Fri,14-03-2025,,,,
+1059,81,Em_115,Shoaib Adil khan,Fri,14-03-2025,,,,
+1060,82,Em_108,Akhil Mishra,Fri,14-03-2025,,,,
+1061,83,Em_112,Pragya Watti,Fri,14-03-2025,,,,
+1062,84,Em_113,Aayushi Tiwari,Fri,14-03-2025,,,,
+1063,85,Em_101,Shruti Jain,Sat,15-03-2025,,,,
+1064,86,Em_114,Diya Jain,Sat,15-03-2025,,,,
+1065,87,Em_115,Shoaib Adil khan,Sat,15-03-2025,,,,
+1066,88,Em_108,Akhil Mishra,Sat,15-03-2025,,,,
+1067,89,Em_112,Pragya Watti,Sat,15-03-2025,,,,
+1068,90,Em_113,Aayushi Tiwari,Sat,15-03-2025,,,,
+1069,91,Em_101,Shruti Jain,Sun,16-03-2025,,,,Holiday
+1070,92,Em_114,Diya Jain,Sun,16-03-2025,,,,Holiday
+1071,93,Em_115,Shoaib Adil khan,Sun,16-03-2025,,,,Holiday
+1072,94,Em_108,Akhil Mishra,Sun,16-03-2025,,,,Holiday
+1073,95,Em_112,Pragya Watti,Sun,16-03-2025,,,,Holiday
+1074,96,Em_113,Aayushi Tiwari,Sun,16-03-2025,,,,Holiday
+1075,97,Em_101,Shruti Jain,Mon,17-03-2025,10:06:00,19:02:00,08:56:00,Full Day
+1076,98,Em_114,Diya Jain,Mon,17-03-2025,10:30:00,19:02:00,08:32:00,Full Day
+1077,99,Em_112,Pragya Watti,Mon,17-03-2025,10:35:00,20:13:00,09:38:00,Full Day
+1078,100,Em_115,Shoaib Adil khan,Mon,17-03-2025,11:15:00,15:40:00,04:25:00,Half Day
+1079,101,Em_113,Aayushi Tiwari,Mon,17-03-2025,11:20:00,19:45:00,08:25:00,Half Day
+1080,102,Em_108,Akhil Mishra,Mon,17-03-2025,,,,Leave
+1081,103,Em_101,Shruti Jain,Tue,18-03-2025,10:12:00,19:00:00,08:48:00,Full Day
+1082,104,Em_114,Diya Jain,Tue,18-03-2025,10:27:00,19:00:00,08:33:00,Full Day
+1083,105,Em_112,Pragya Watti,Tue,18-03-2025,10:45:00,20:07:00,09:22:00,Full Day
+1084,106,Em_115,Shoaib Adil khan,Tue,18-03-2025,11:20:00,15:30:00,04:10:00,Half Day
+1085,107,Em_113,Aayushi Tiwari,Tue,18-03-2025,11:40:00,19:40:00,08:00:00,Half Day
+1086,108,Em_108,Akhil Mishra,Tue,18-03-2025,,,,Leave
+1087,109,Em_101,Shruti Jain,Wed,19-03-2025,,,,
+1088,110,Em_114,Diya Jain,Wed,19-03-2025,,,,
+1089,111,Em_115,Shoaib Adil khan,Wed,19-03-2025,,,,
+1090,112,Em_108,Akhil Mishra,Wed,19-03-2025,,,,
+1091,113,Em_112,Pragya Watti,Wed,19-03-2025,,,,
+1092,114,Em_113,Aayushi Tiwari,Wed,19-03-2025,,,,
+1093,115,Em_101,Shruti Jain,Thu,20-03-2025,09:56:00,19:00:00,09:04:00,Full Day
+1094,116,Em_114,Diya Jain,Thu,20-03-2025,10:29:00,18:11:00,07:42:00,Half Day
+1095,117,Em_112,Pragya Watti,Thu,20-03-2025,10:32:00,19:53:00,09:21:00,Full Day
+1096,118,Em_115,Shoaib Adil khan,Thu,20-03-2025,11:00:00,15:30:00,04:30:00,Half Day
+1097,119,Em_108,Akhil Mishra,Thu,20-03-2025,11:00:00,19:00:00,08:00:00,Half Day
+1098,120,Em_113,Aayushi Tiwari,Thu,20-03-2025,11:30:00,19:45:00,08:15:00,Half Day
+1099,121,Em_101,Shruti Jain,Fri,21-03-2025,10:15:00,19:17:00,09:02:00,Full Day
+1100,122,Em_114,Diya Jain,Fri,21-03-2025,10:45:00,18:52:00,08:07:00,Full Day
+1101,123,Em_108,Akhil Mishra,Fri,21-03-2025,11:00:00,19:17:00,08:17:00,Half Day
+1102,124,Em_115,Shoaib Adil khan,Fri,21-03-2025,11:20:00,15:40:00,04:20:00,Half Day
+1103,125,Em_112,Pragya Watti,Fri,21-03-2025,,,,Leave
+1104,126,Em_113,Aayushi Tiwari,Fri,21-03-2025,12:30:00,19:40:00,07:10:00,Half Day
+1105,127,Em_101,Shruti Jain,Sat,22-03-2025,10:11:00,19:37:00,09:26:00,Full Day
+1106,128,Em_114,Diya Jain,Sat,22-03-2025,10:17:00,18:30:00,08:13:00,Full Day
+1107,129,Em_112,Pragya Watti,Sat,22-03-2025,10:30:00,19:32:00,09:02:00,Full Day
+1108,130,Em_115,Shoaib Adil khan,Sat,22-03-2025,11:00:00,15:30:00,04:30:00,Half Day
+1109,131,Em_113,Aayushi Tiwari,Sat,22-03-2025,12:45:00,19:40:00,06:55:00,Half Day
+1110,132,Em_108,Akhil Mishra,Sat,22-03-2025,13:00:00,19:37:00,06:37:00,Half Day
+1111,133,Em_101,Shruti Jain,Sun,23-03-2025,,,,Holiday
+1112,134,Em_114,Diya Jain,Sun,23-03-2025,,,,Holiday
+1113,135,Em_115,Shoaib Adil khan,Sun,23-03-2025,,,,Holiday
+1114,136,Em_108,Akhil Mishra,Sun,23-03-2025,,,,Holiday
+1115,137,Em_112,Pragya Watti,Sun,23-03-2025,,,,Holiday
+1116,138,Em_113,Aayushi Tiwari,Sun,23-03-2025,,,,Holiday
+1117,139,Em_101,Shruti Jain,Mon,24-03-2025,10:04:00,19:15:00,09:11:00,Full Day
+1118,140,Em_112,Pragya Watti,Mon,24-03-2025,10:35:00,19:39:00,09:04:00,Full Day
+1119,141,Em_108,Akhil Mishra,Mon,24-03-2025,11:00:00,19:45:00,08:45:00,Full Day
+1120,142,Em_115,Shoaib Adil khan,Mon,24-03-2025,,,,Leave
+1121,143,Em_114,Diya Jain,Mon,24-03-2025,12:20:00,18:43:00,06:23:00,Half Day
+1122,144,Em_113,Aayushi Tiwari,Mon,24-03-2025,13:00:00,19:42:00,06:42:00,Half Day
+1123,145,Em_101,Shruti Jain,Tue,25-03-2025,09:56:00,19:30:00,09:34:00,Full Day
+1124,146,Em_114,Diya Jain,Tue,25-03-2025,10:11:00,18:42:00,08:31:00,Full Day
+1125,147,Em_112,Pragya Watti,Tue,25-03-2025,10:41:00,19:42:00,09:01:00,Full Day
+1126,148,Em_115,Shoaib Adil khan,Tue,25-03-2025,10:45:00,15:40:00,04:55:00,Half Day
+1127,149,Em_108,Akhil Mishra,Tue,25-03-2025,11:00:00,19:35:00,08:35:00,Full Day
+1128,150,Em_113,Aayushi Tiwari,Tue,25-03-2025,11:15:00,19:43:00,08:28:00,Half Day
+1129,151,Em_114,Diya Jain,Wed,26-03-2025,10:14:00,18:30:00,08:16:00,Full Day
+1130,152,Em_101,Shruti Jain,Wed,26-03-2025,10:15:00,19:00:00,08:45:00,Full Day
+1131,153,Em_112,Pragya Watti,Wed,26-03-2025,10:35:00,20:20:00,09:45:00,Full Day
+1132,154,Em_108,Akhil Mishra,Wed,26-03-2025,11:00:00,19:20:00,08:20:00,Half Day
+1133,155,Em_113,Aayushi Tiwari,Wed,26-03-2025,11:20:00,19:50:00,08:30:00,Full Day
+1134,156,Em_115,Shoaib Adil khan,Wed,26-03-2025,11:45:00,15:40:00,03:55:00,Half Day
+1135,157,Em_114,Diya Jain,Thu,27-03-2025,10:16:00,18:50:00,08:34:00,Full Day
+1136,158,Em_101,Shruti Jain,Thu,27-03-2025,10:30:00,19:00:00,08:30:00,Full Day
+1137,159,Em_112,Pragya Watti,Thu,27-03-2025,10:35:00,19:30:00,08:55:00,Half Day
+1138,160,Em_113,Aayushi Tiwari,Thu,27-03-2025,11:10:00,16:30:00,05:20:00,Half Day
+1139,161,Em_115,Shoaib Adil khan,Thu,27-03-2025,,,,Leave
+1140,162,Em_108,Akhil Mishra,Thu,27-03-2025,13:00:00,21:00:00,08:00:00,Half Day
+1141,163,Em_101,Shruti Jain,Fri,28-03-2025,10:27:00,20:47:00,10:20:00,Full Day
+1142,164,Em_114,Diya Jain,Fri,28-03-2025,10:33:00,20:47:00,10:14:00,Full Day
+1143,165,Em_108,Akhil Mishra,Fri,28-03-2025,10:45:00,19:30:00,08:45:00,Full Day
+1144,166,Em_113,Aayushi Tiwari,Fri,28-03-2025,11:00:00,15:30:00,04:30:00,Half Day
+1145,167,Em_115,Shoaib Adil khan,Fri,28-03-2025,,,,Leave
+1146,168,Em_112,Pragya Watti,Fri,28-03-2025,,,,Leave
+1147,169,Em_101,Shruti Jain,Sat,29-03-2025,10:20:00,18:05:00,07:45:00,Half Day
+1148,170,Em_114,Diya Jain,Sat,29-03-2025,10:28:00,18:05:00,07:37:00,Half Day
+1149,171,Em_112,Pragya Watti,Sat,29-03-2025,10:35:00,18:16:00,07:41:00,Half Day
+1150,172,Em_108,Akhil Mishra,Sat,29-03-2025,11:00:00,21:00:00,10:00:00,Full Day
+1151,173,Em_113,Aayushi Tiwari,Sat,29-03-2025,11:20:00,18:15:00,06:55:00,Half Day
+1152,174,Em_115,Shoaib Adil khan,Sat,29-03-2025,,,,Leave
+1153,175,Em_101,Shruti Jain,Sun,30-03-2025,,,,Holiday
+1154,176,Em_114,Diya Jain,Sun,30-03-2025,,,,Holiday
+1155,177,Em_115,Shoaib Adil khan,Sun,30-03-2025,,,,Holiday
+1156,178,Em_108,Akhil Mishra,Sun,30-03-2025,,,,Holiday
+1157,179,Em_112,Pragya Watti,Sun,30-03-2025,,,,Holiday
+1158,180,Em_113,Aayushi Tiwari,Sun,30-03-2025,,,,Holiday
+1159,181,Em_101,Shruti Jain,Mon,31-03-2025,10:08:00,19:00:00,08:52:00,Full Day
+1160,182,Em_114,Diya Jain,Mon,31-03-2025,10:21:00,18:30:00,08:09:00,Full Day
+1161,183,Em_108,Akhil Mishra,Mon,31-03-2025,10:30:00,19:00:00,08:30:00,Full Day
+1162,184,Em_112,Pragya Watti,Mon,31-03-2025,10:40:00,18:30:00,07:50:00,Half Day
+1163,185,Em_113,Aayushi Tiwari,Mon,31-03-2025,11:20:00,18:30:00,07:10:00,Half Day
+1164,186,Em_115,Shoaib Adil khan,Mon,31-03-2025,,,,Leave
+1165,1,P_101,Manish,Tue,01-04-2025,10:00:00,19:00:00,09:00:00,Full Day
+1166,2,Ac_101,HB Bhoundave,Tue,01-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1167,3,Em_114,Diya Jain,Tue,01-04-2025,10:20:00,19:00:00,08:40:00,Full Day
+1168,4,Em_101,Shruti Jain,Tue,01-04-2025,10:30:00,19:00:00,08:30:00,Full Day
+1169,5,Em_113,Aayushi Tiwari,Tue,01-04-2025,11:00:00,19:00:00,08:00:00,Half Day
+1170,6,Em_108,Akhil Mishra,Tue,01-04-2025,11:05:00,19:00:00,07:55:00,Half Day
+1171,7,Em_116,Anurag Nankani,Tue,01-04-2025,12:00:00,18:30:00,06:30:00,Half Day
+1172,8,Em_117,Abhishek Lingati,Tue,01-04-2025,12:30:00,15:30:00,03:00:00,Half Day
+1173,9,Em_112,Pragya Watti,Tue,01-04-2025,13:40:00,19:00:00,05:20:00,Half Day
+1174,10,Em_118,Vikas Vishwakarma,Tue,01-04-2025,15:00:00,20:00:00,05:00:00,Half Day
+1175,11,Em_115,Shoaib Adil khan,Tue,01-04-2025,,,,Leave
+1176,12,Em_101,Shruti Jain,Wed,02-04-2025,10:25:00,18:30:00,08:05:00,Half Day
+1177,13,Em_108,Akhil Mishra,Wed,02-04-2025,10:25:00,19:40:00,09:15:00,Full Day
+1178,14,Ac_101,HB Bhoundave,Wed,02-04-2025,10:25:00,18:00:00,07:35:00,Full Day
+1179,15,Em_114,Diya Jain,Wed,02-04-2025,11:20:00,19:00:00,07:40:00,Half Day
+1180,16,Em_117,Abhishek Lingati,Wed,02-04-2025,12:00:00,16:16:00,04:16:00,Half Day
+1181,17,Em_113,Aayushi Tiwari,Wed,02-04-2025,14:00:00,19:30:00,05:30:00,Half Day
+1182,18,Em_116,Anurag Nankani,Wed,02-04-2025,14:00:00,18:30:00,04:30:00,Half Day
+1183,19,Em_118,Vikas Vishwakarma,Wed,02-04-2025,15:00:00,20:00:00,05:00:00,Half Day
+1184,20,Em_112,Pragya Watti,Wed,02-04-2025,,,00:08:00,Half Day
+1185,21,Em_115,Shoaib Adil khan,Wed,02-04-2025,,,,Leave
+1186,22,P_101,Manish,Wed,02-04-2025,,,,Leave
+1187,23,Ac_101,HB Bhoundave,Thu,03-04-2025,10:20:00,18:00:00,07:40:00,Full Day
+1188,24,Em_101,Shruti Jain,Thu,03-04-2025,10:25:00,19:24:00,08:59:00,Full Day
+1189,25,Em_114,Diya Jain,Thu,03-04-2025,10:25:00,19:24:00,08:59:00,Full Day
+1190,26,Em_116,Anurag Nankani,Thu,03-04-2025,10:30:00,20:45:00,10:15:00,Full Day
+1191,27,Em_108,Akhil Mishra,Thu,03-04-2025,10:40:00,19:27:00,08:47:00,Full Day
+1192,28,Em_112,Pragya Watti,Thu,03-04-2025,11:30:00,20:45:00,09:15:00,Full Day
+1193,29,Em_117,Abhishek Lingati,Thu,03-04-2025,11:55:00,13:50:00,01:55:00,Half Day
+1194,30,Em_118,Vikas Vishwakarma,Thu,03-04-2025,15:00:00,18:30:00,03:30:00,Half Day
+1195,31,Em_113,Aayushi Tiwari,Thu,03-04-2025,,,,Leave
+1196,32,Em_115,Shoaib Adil khan,Thu,03-04-2025,,,,Leave
+1197,33,P_101,Manish,Thu,03-04-2025,,,,Leave
+1198,34,Ac_101,HB Bhoundave,Fri,04-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1199,35,Em_101,Shruti Jain,Fri,04-04-2025,10:25:00,19:23:00,08:58:00,Full Day
+1200,36,Em_114,Diya Jain,Fri,04-04-2025,10:25:00,19:33:00,09:08:00,Full Day
+1201,37,Em_116,Anurag Nankani,Fri,04-04-2025,10:30:00,20:45:00,10:15:00,Full Day
+1202,38,Em_115,Shoaib Adil khan,Fri,04-04-2025,10:40:00,17:20:00,06:40:00,Half Day
+1203,39,Em_112,Pragya Watti,Fri,04-04-2025,10:45:00,20:00:00,09:15:00,Full Day
+1204,40,Em_113,Aayushi Tiwari,Fri,04-04-2025,11:20:00,19:40:00,08:20:00,Half Day
+1205,41,Em_118,Vikas Vishwakarma,Fri,04-04-2025,15:00:00,18:30:00,03:30:00,Half Day
+1206,42,Em_108,Akhil Mishra,Fri,04-04-2025,,,,Leave
+1207,43,P_101,Manish,Fri,04-04-2025,,,,Leave
+1208,44,Em_117,Abhishek Lingati,Fri,04-04-2025,,,,Leave
+1209,45,P_101,Manish,Sat,05-04-2025,10:00:00,18:30:00,08:30:00,Full Day
+1210,46,Ac_101,HB Bhoundave,Sat,05-04-2025,10:15:00,17:55:00,07:40:00,Full Day
+1211,47,Em_101,Shruti Jain,Sat,05-04-2025,10:30:00,17:40:00,07:10:00,Half Day
+1212,48,Em_114,Diya Jain,Sat,05-04-2025,10:30:00,18:35:00,08:05:00,Full Day
+1213,49,Em_108,Akhil Mishra,Sat,05-04-2025,10:30:00,18:30:00,08:00:00,Half Day
+1214,50,Em_112,Pragya Watti,Sat,05-04-2025,10:35:00,18:35:00,08:00:00,Half Day
+1215,51,Em_116,Anurag Nankani,Sat,05-04-2025,11:15:00,18:30:00,07:15:00,Half Day
+1216,52,Em_113,Aayushi Tiwari,Sat,05-04-2025,11:25:00,14:15:00,02:50:00,Half Day
+1217,53,Em_115,Shoaib Adil khan,Sat,05-04-2025,,,,Leave
+1218,54,Em_117,Abhishek Lingati,Sat,05-04-2025,,,,Leave
+1219,55,Em_118,Vikas Vishwakarma,Sat,05-04-2025,,,,Leave
+1220,56,Em_101,Shruti Jain,Sun,06-04-2025,,,,Holiday
+1221,57,Em_114,Diya Jain,Sun,06-04-2025,,,,Holiday
+1222,58,Em_108,Akhil Mishra,Sun,06-04-2025,,,,Holiday
+1223,59,Em_112,Pragya Watti,Sun,06-04-2025,,,,Holiday
+1224,60,Em_113,Aayushi Tiwari,Sun,06-04-2025,,,,Holiday
+1225,61,Em_115,Shoaib Adil khan,Sun,06-04-2025,,,,Holiday
+1226,62,P_101,Manish,Sun,06-04-2025,,,,Holiday
+1227,63,Ac_101,HB Bhoundave,Sun,06-04-2025,,,,Holiday
+1228,64,Em_116,Anurag Nankani,Sun,06-04-2025,,,,Holiday
+1229,65,Em_117,Abhishek Lingati,Sun,06-04-2025,,,,Holiday
+1230,66,Em_118,Vikas Vishwakarma,Sun,06-04-2025,,,,Holiday
+1231,67,P_101,Manish,Mon,07-04-2025,10:00:00,20:48:00,10:48:00,Full Day
+1232,68,Ac_101,HB Bhoundave,Mon,07-04-2025,10:15:00,18:30:00,08:15:00,Full Day
+1233,69,Em_101,Shruti Jain,Mon,07-04-2025,10:20:00,19:31:00,09:11:00,Full Day
+1234,70,Em_115,Shoaib Adil khan,Mon,07-04-2025,10:25:00,17:30:00,07:05:00,Full Day
+1235,71,Em_112,Pragya Watti,Mon,07-04-2025,10:30:00,19:31:00,09:01:00,Full Day
+1236,72,Em_108,Akhil Mishra,Mon,07-04-2025,10:50:00,20:30:00,09:40:00,Full Day
+1237,73,Em_114,Diya Jain,Mon,07-04-2025,11:55:00,19:11:00,07:16:00,Half Day
+1238,74,Em_116,Anurag Nankani,Mon,07-04-2025,12:00:00,20:45:00,08:45:00,Half Day
+1239,75,Em_117,Abhishek Lingati,Mon,07-04-2025,13:45:00,16:20:00,02:35:00,Half Day
+1240,76,Em_118,Vikas Vishwakarma,Mon,07-04-2025,15:00:00,20:15:00,05:15:00,Half Day
+1241,77,Em_113,Aayushi Tiwari,Mon,07-04-2025,,,,Leave
+1242,78,P_101,Manish,Tue,08-04-2025,10:00:00,20:30:00,10:30:00,Full Day
+1243,79,Em_101,Shruti Jain,Tue,08-04-2025,10:15:00,19:02:00,08:47:00,Full Day
+1244,80,Ac_101,HB Bhoundave,Tue,08-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1245,81,Em_115,Shoaib Adil khan,Tue,08-04-2025,10:25:00,17:30:00,07:05:00,Full Day
+1246,82,Em_114,Diya Jain,Tue,08-04-2025,10:30:00,19:02:00,08:32:00,Full Day
+1247,83,Em_108,Akhil Mishra,Tue,08-04-2025,10:35:00,19:30:00,08:55:00,Full Day
+1248,84,Em_112,Pragya Watti,Tue,08-04-2025,10:35:00,20:15:00,09:40:00,Full Day
+1249,85,Em_113,Aayushi Tiwari,Tue,08-04-2025,12:00:00,19:40:00,07:40:00,Half Day
+1250,86,Em_116,Anurag Nankani,Tue,08-04-2025,12:00:00,20:15:00,08:15:00,Half Day
+1251,87,Em_118,Vikas Vishwakarma,Tue,08-04-2025,15:00:00,20:30:00,05:30:00,Half Day
+1252,88,Em_117,Abhishek Lingati,Tue,08-04-2025,,,,Leave
+1253,89,P_101,Manish,Wed,09-04-2025,10:00:00,20:49:00,10:49:00,Full Day
+1254,90,Em_101,Shruti Jain,Wed,09-04-2025,10:18:00,19:00:00,08:42:00,Full Day
+1255,91,Ac_101,HB Bhoundave,Wed,09-04-2025,10:20:00,18:05:00,07:45:00,Full Day
+1256,92,Em_114,Diya Jain,Wed,09-04-2025,10:35:00,19:00:00,08:25:00,Full Day
+1257,93,Em_108,Akhil Mishra,Wed,09-04-2025,10:40:00,20:40:00,10:00:00,Full Day
+1258,94,Em_112,Pragya Watti,Wed,09-04-2025,10:40:00,20:40:00,10:00:00,Full Day
+1259,95,Em_115,Shoaib Adil khan,Wed,09-04-2025,10:40:00,17:20:00,06:40:00,Half Day
+1260,96,Em_113,Aayushi Tiwari,Wed,09-04-2025,11:15:00,19:40:00,08:25:00,Half Day
+1261,97,Em_116,Anurag Nankani,Wed,09-04-2025,12:25:00,20:45:00,08:20:00,Half Day
+1262,98,Em_117,Abhishek Lingati,Wed,09-04-2025,12:55:00,16:30:00,03:35:00,Half Day
+1263,99,Em_118,Vikas Vishwakarma,Wed,09-04-2025,14:50:00,20:30:00,05:40:00,Half Day
+1264,100,P_101,Manish,Thu,10-04-2025,10:00:00,20:45:00,10:45:00,Full Day
+1265,101,Ac_101,HB Bhoundave,Thu,10-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1266,102,Em_115,Shoaib Adil khan,Thu,10-04-2025,10:20:00,17:20:00,07:00:00,Full Day
+1267,103,Em_112,Pragya Watti,Thu,10-04-2025,10:40:00,20:30:00,09:50:00,Full Day
+1268,104,Em_108,Akhil Mishra,Thu,10-04-2025,10:50:00,20:30:00,09:40:00,Full Day
+1269,105,Em_113,Aayushi Tiwari,Thu,10-04-2025,11:20:00,19:45:00,08:25:00,Half Day
+1270,106,Em_116,Anurag Nankani,Thu,10-04-2025,11:35:00,20:40:00,09:05:00,Full Day
+1271,107,Em_117,Abhishek Lingati,Thu,10-04-2025,13:00:00,17:20:00,04:20:00,Half Day
+1272,108,Em_118,Vikas Vishwakarma,Thu,10-04-2025,14:50:00,20:25:00,05:35:00,Half Day
+1273,109,Em_101,Shruti Jain,Thu,10-04-2025,23:58:00,23:58:00,,
+1274,110,Em_114,Diya Jain,Thu,10-04-2025,23:58:00,23:58:00,,
+1275,111,Em_118,Vikas Vishwakarma,Fri,11-04-2025,02:55:00,20:05:00,17:10:00,Full Day
+1276,112,P_101,Manish,Fri,11-04-2025,10:00:00,20:48:00,10:48:00,Full Day
+1277,113,Ac_101,HB Bhoundave,Fri,11-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1278,114,Em_115,Shoaib Adil khan,Fri,11-04-2025,10:25:00,17:35:00,07:10:00,Full Day
+1279,115,Em_101,Shruti Jain,Fri,11-04-2025,10:35:00,19:19:00,08:44:00,Full Day
+1280,116,Em_114,Diya Jain,Fri,11-04-2025,10:45:00,19:22:00,08:37:00,Full Day
+1281,117,Em_108,Akhil Mishra,Fri,11-04-2025,10:45:00,20:05:00,09:20:00,Full Day
+1282,118,Em_112,Pragya Watti,Fri,11-04-2025,11:00:00,20:00:00,09:00:00,Full Day
+1283,119,Em_113,Aayushi Tiwari,Fri,11-04-2025,11:05:00,17:35:00,06:30:00,Half Day
+1284,120,Em_117,Abhishek Lingati,Fri,11-04-2025,12:10:00,15:15:00,03:05:00,Half Day
+1285,121,Em_116,Anurag Nankani,Fri,11-04-2025,12:35:00,20:45:00,08:10:00,Half Day
+1286,122,P_101,Manish,Sat,12-04-2025,10:08:00,20:30:00,10:22:00,Full Day
+1287,123,Em_101,Shruti Jain,Sat,12-04-2025,10:10:00,18:10:00,08:00:00,Half Day
+1288,124,Ac_101,HB Bhoundave,Sat,12-04-2025,10:15:00,17:00:00,06:45:00,Full Day
+1289,125,Em_108,Akhil Mishra,Sat,12-04-2025,10:20:00,19:00:00,08:40:00,Full Day
+1290,126,Em_114,Diya Jain,Sat,12-04-2025,10:30:00,19:00:00,08:30:00,Full Day
+1291,127,Em_115,Shoaib Adil khan,Sat,12-04-2025,10:30:00,17:35:00,07:05:00,Full Day
+1292,128,Em_112,Pragya Watti,Sat,12-04-2025,10:40:00,19:09:00,08:29:00,Half Day
+1293,129,Em_116,Anurag Nankani,Sat,12-04-2025,13:00:00,19:00:00,06:00:00,Half Day
+1294,130,Em_118,Vikas Vishwakarma,Sat,12-04-2025,15:00:00,19:00:00,04:00:00,Half Day
+1295,131,Em_113,Aayushi Tiwari,Sat,12-04-2025,,,,
+1296,132,Em_117,Abhishek Lingati,Sat,12-04-2025,,,,Leave
+1297,133,Em_101,Shruti Jain,Sun,13-04-2025,,,,Holiday
+1298,134,Em_114,Diya Jain,Sun,13-04-2025,,,,Holiday
+1299,135,Em_108,Akhil Mishra,Sun,13-04-2025,,,,Holiday
+1300,136,Em_112,Pragya Watti,Sun,13-04-2025,,,,Holiday
+1301,137,Em_113,Aayushi Tiwari,Sun,13-04-2025,,,,Holiday
+1302,138,Em_115,Shoaib Adil khan,Sun,13-04-2025,,,,Holiday
+1303,139,P_101,Manish,Sun,13-04-2025,,,,Holiday
+1304,140,Ac_101,HB Bhoundave,Sun,13-04-2025,,,,Holiday
+1305,141,Em_116,Anurag Nankani,Sun,13-04-2025,,,,Holiday
+1306,142,Em_117,Abhishek Lingati,Sun,13-04-2025,,,,Holiday
+1307,143,Em_118,Vikas Vishwakarma,Sun,13-04-2025,,,,Holiday
+1308,144,Em_101,Shruti Jain,Mon,14-04-2025,10:10:00,17:30:00,07:20:00,Half Day
+1309,145,Em_114,Diya Jain,Mon,14-04-2025,10:20:00,19:07:00,08:47:00,Full Day
+1310,146,Ac_101,HB Bhoundave,Mon,14-04-2025,10:20:00,18:00:00,07:40:00,Full Day
+1311,147,Em_112,Pragya Watti,Mon,14-04-2025,10:40:00,19:39:00,08:59:00,Half Day
+1312,148,P_101,Manish,Mon,14-04-2025,10:40:00,20:35:00,09:55:00,Full Day
+1313,149,Em_108,Akhil Mishra,Mon,14-04-2025,10:55:00,20:30:00,09:35:00,Full Day
+1314,150,Em_116,Anurag Nankani,Mon,14-04-2025,11:30:00,20:30:00,09:00:00,Full Day
+1315,151,Em_118,Vikas Vishwakarma,Mon,14-04-2025,14:50:00,20:30:00,05:40:00,Half Day
+1316,152,Em_113,Aayushi Tiwari,Mon,14-04-2025,,,,
+1317,153,Em_115,Shoaib Adil khan,Mon,14-04-2025,,,,Leave
+1318,154,Em_117,Abhishek Lingati,Mon,14-04-2025,,,,Leave
+1319,155,P_101,Manish,Tue,15-04-2025,10:00:00,20:30:00,10:30:00,Full Day
+1320,156,Em_101,Shruti Jain,Tue,15-04-2025,10:10:00,19:10:00,09:00:00,Full Day
+1321,157,Ac_101,HB Bhoundave,Tue,15-04-2025,10:10:00,18:00:00,07:50:00,Full Day
+1322,158,Em_108,Akhil Mishra,Tue,15-04-2025,10:15:00,20:20:00,10:05:00,Full Day
+1323,159,Em_114,Diya Jain,Tue,15-04-2025,10:34:00,19:10:00,08:36:00,Full Day
+1324,160,Em_112,Pragya Watti,Tue,15-04-2025,11:05:00,20:00:00,08:55:00,Half Day
+1325,161,Em_116,Anurag Nankani,Tue,15-04-2025,11:15:00,20:45:00,09:30:00,Full Day
+1326,162,Em_118,Vikas Vishwakarma,Tue,15-04-2025,15:00:00,20:20:00,05:20:00,Half Day
+1327,163,Em_113,Aayushi Tiwari,Tue,15-04-2025,,,,
+1328,164,Em_115,Shoaib Adil khan,Tue,15-04-2025,,,,Leave
+1329,165,Em_117,Abhishek Lingati,Tue,15-04-2025,,,,Leave
+1330,166,P_101,Manish,Wed,16-04-2025,10:00:00,20:39:00,10:39:00,Full Day
+1331,167,Em_101,Shruti Jain,Wed,16-04-2025,10:10:00,20:02:00,09:52:00,Full Day
+1332,168,Ac_101,HB Bhoundave,Wed,16-04-2025,10:10:00,18:40:00,08:30:00,Full Day
+1333,169,Em_115,Shoaib Adil khan,Wed,16-04-2025,10:30:00,17:15:00,06:45:00,Half Day
+1334,170,Em_112,Pragya Watti,Wed,16-04-2025,10:40:00,19:40:00,09:00:00,Full Day
+1335,171,Em_114,Diya Jain,Wed,16-04-2025,10:50:00,19:32:00,08:42:00,Full Day
+1336,172,Em_108,Akhil Mishra,Wed,16-04-2025,10:50:00,19:30:00,08:40:00,Full Day
+1337,173,Em_116,Anurag Nankani,Wed,16-04-2025,11:30:00,20:30:00,09:00:00,Full Day
+1338,174,Em_113,Aayushi Tiwari,Wed,16-04-2025,,,,
+1339,175,Em_117,Abhishek Lingati,Wed,16-04-2025,,,,Leave
+1340,176,Em_118,Vikas Vishwakarma,Wed,16-04-2025,,,,Leave
+1341,177,P_101,Manish,Thu,17-04-2025,10:00:00,21:05:00,11:05:00,Full Day
+1342,178,Em_101,Shruti Jain,Thu,17-04-2025,10:10:00,19:15:00,09:05:00,Full Day
+1343,179,Ac_101,HB Bhoundave,Thu,17-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1344,180,Em_115,Shoaib Adil khan,Thu,17-04-2025,10:20:00,17:20:00,07:00:00,Full Day
+1345,181,Em_114,Diya Jain,Thu,17-04-2025,10:30:00,19:37:00,09:07:00,Full Day
+1346,182,Em_112,Pragya Watti,Thu,17-04-2025,10:45:00,20:45:00,10:00:00,Full Day
+1347,183,Em_116,Anurag Nankani,Thu,17-04-2025,11:55:00,21:00:00,09:05:00,Full Day
+1348,184,Em_108,Akhil Mishra,Thu,17-04-2025,12:20:00,20:30:00,08:10:00,Half Day
+1349,185,Em_117,Abhishek Lingati,Thu,17-04-2025,14:30:00,16:00:00,01:30:00,Half Day
+1350,186,Em_118,Vikas Vishwakarma,Thu,17-04-2025,15:00:00,20:45:00,05:45:00,Half Day
+1351,187,Em_113,Aayushi Tiwari,Thu,17-04-2025,,,,
+1352,188,P_101,Manish,Fri,18-04-2025,10:00:00,21:00:00,11:00:00,Full Day
+1353,189,Ac_101,HB Bhoundave,Fri,18-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1354,190,Em_101,Shruti Jain,Fri,18-04-2025,10:18:00,19:30:00,09:12:00,Full Day
+1355,191,Em_114,Diya Jain,Fri,18-04-2025,10:20:00,19:30:00,09:10:00,Full Day
+1356,192,Em_115,Shoaib Adil khan,Fri,18-04-2025,10:20:00,17:30:00,07:10:00,Full Day
+1357,193,Em_112,Pragya Watti,Fri,18-04-2025,10:40:00,19:40:00,09:00:00,Full Day
+1358,194,Em_108,Akhil Mishra,Fri,18-04-2025,10:50:00,20:11:00,09:21:00,Full Day
+1359,195,Em_116,Anurag Nankani,Fri,18-04-2025,12:10:00,21:00:00,08:50:00,Half Day
+1360,196,Em_118,Vikas Vishwakarma,Fri,18-04-2025,14:50:00,20:12:00,05:22:00,Half Day
+1361,197,Em_117,Abhishek Lingati,Fri,18-04-2025,15:40:00,16:30:00,00:50:00,Half Day
+1362,198,Em_113,Aayushi Tiwari,Fri,18-04-2025,,,,
+1363,199,P_101,Manish,Sat,19-04-2025,10:00:00,19:48:00,09:48:00,Full Day
+1364,200,Ac_101,HB Bhoundave,Sat,19-04-2025,10:10:00,18:00:00,07:50:00,Full Day
+1365,201,Em_101,Shruti Jain,Sat,19-04-2025,10:12:00,19:30:00,09:18:00,Full Day
+1366,202,Em_115,Shoaib Adil khan,Sat,19-04-2025,10:30:00,17:30:00,07:00:00,Full Day
+1367,203,Em_114,Diya Jain,Sat,19-04-2025,10:40:00,19:30:00,08:50:00,Full Day
+1368,204,Em_112,Pragya Watti,Sat,19-04-2025,10:40:00,19:39:00,08:59:00,Half Day
+1369,205,Em_108,Akhil Mishra,Sat,19-04-2025,10:50:00,19:30:00,08:40:00,Full Day
+1370,206,Em_116,Anurag Nankani,Sat,19-04-2025,11:45:00,19:40:00,07:55:00,Half Day
+1371,207,Em_118,Vikas Vishwakarma,Sat,19-04-2025,14:50:00,19:31:00,04:41:00,Half Day
+1372,208,Em_113,Aayushi Tiwari,Sat,19-04-2025,,,,
+1373,209,Em_117,Abhishek Lingati,Sat,19-04-2025,,,,Leave
+1374,210,Em_101,Shruti Jain,Sun,20-04-2025,,,,Holiday
+1375,211,Em_114,Diya Jain,Sun,20-04-2025,,,,Holiday
+1376,212,Em_108,Akhil Mishra,Sun,20-04-2025,,,,Holiday
+1377,213,Em_112,Pragya Watti,Sun,20-04-2025,,,,Holiday
+1378,214,Em_113,Aayushi Tiwari,Sun,20-04-2025,,,,Holiday
+1379,215,Em_115,Shoaib Adil khan,Sun,20-04-2025,,,,Holiday
+1380,216,P_101,Manish,Sun,20-04-2025,,,,Holiday
+1381,217,Ac_101,HB Bhoundave,Sun,20-04-2025,,,,Holiday
+1382,218,Em_116,Anurag Nankani,Sun,20-04-2025,,,,Holiday
+1383,219,Em_117,Abhishek Lingati,Sun,20-04-2025,,,,Holiday
+1384,220,Em_118,Vikas Vishwakarma,Sun,20-04-2025,,,,Holiday
+1385,221,P_101,Manish,Mon,21-04-2025,10:08:00,19:48:00,09:40:00,Full Day
+1386,222,Em_115,Shoaib Adil khan,Mon,21-04-2025,10:10:00,17:15:00,07:05:00,Full Day
+1387,223,Ac_101,HB Bhoundave,Mon,21-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1388,224,Em_101,Shruti Jain,Mon,21-04-2025,10:24:00,19:15:00,08:51:00,Full Day
+1389,225,Em_112,Pragya Watti,Mon,21-04-2025,10:35:00,19:50:00,09:15:00,Full Day
+1390,226,Em_114,Diya Jain,Mon,21-04-2025,10:55:00,19:05:00,08:10:00,Full Day
+1391,227,Em_108,Akhil Mishra,Mon,21-04-2025,11:00:00,19:50:00,08:50:00,Full Day
+1392,228,Em_116,Anurag Nankani,Mon,21-04-2025,11:40:00,20:00:00,08:20:00,Half Day
+1393,229,Em_118,Vikas Vishwakarma,Mon,21-04-2025,14:05:00,19:50:00,05:45:00,Half Day
+1394,230,Em_113,Aayushi Tiwari,Mon,21-04-2025,,,,
+1395,231,Em_117,Abhishek Lingati,Mon,21-04-2025,,,,Leave
+1396,232,Em_115,Shoaib Adil khan,Tue,22-04-2025,10:00:00,17:15:00,07:15:00,Full Day
+1397,233,P_101,Manish,Tue,22-04-2025,10:00:00,21:08:00,11:08:00,Full Day
+1398,234,Em_101,Shruti Jain,Tue,22-04-2025,10:16:00,19:00:00,08:44:00,Full Day
+1399,235,Ac_101,HB Bhoundave,Tue,22-04-2025,10:20:00,18:00:00,07:40:00,Full Day
+1400,236,Em_114,Diya Jain,Tue,22-04-2025,10:40:00,19:02:00,08:22:00,Full Day
+1401,237,Em_108,Akhil Mishra,Tue,22-04-2025,10:45:00,20:00:00,09:15:00,Full Day
+1402,238,Em_112,Pragya Watti,Tue,22-04-2025,10:45:00,19:54:00,09:09:00,Full Day
+1403,239,Em_116,Anurag Nankani,Tue,22-04-2025,11:30:00,20:00:00,08:30:00,Half Day
+1404,240,Em_117,Abhishek Lingati,Tue,22-04-2025,13:00:00,16:30:00,03:30:00,Half Day
+1405,241,Em_118,Vikas Vishwakarma,Tue,22-04-2025,14:00:00,20:00:00,06:00:00,Half Day
+1406,242,Em_113,Aayushi Tiwari,Tue,22-04-2025,,,,
+1407,243,P_101,Manish,Wed,23-04-2025,10:00:00,20:00:00,10:00:00,Full Day
+1408,244,Ac_101,HB Bhoundave,Wed,23-04-2025,10:10:00,18:00:00,07:50:00,Full Day
+1409,245,Em_101,Shruti Jain,Wed,23-04-2025,10:20:00,19:31:00,09:11:00,Full Day
+1410,246,Em_108,Akhil Mishra,Wed,23-04-2025,10:40:00,20:00:00,09:20:00,Full Day
+1411,247,Em_112,Pragya Watti,Wed,23-04-2025,10:45:00,19:30:00,08:45:00,Half Day
+1412,248,Em_115,Shoaib Adil khan,Wed,23-04-2025,10:45:00,17:15:00,06:30:00,Half Day
+1413,249,Em_114,Diya Jain,Wed,23-04-2025,11:35:00,19:44:00,08:09:00,Full Day
+1414,250,Em_116,Anurag Nankani,Wed,23-04-2025,11:45:00,20:00:00,08:15:00,Half Day
+1415,251,Em_117,Abhishek Lingati,Wed,23-04-2025,14:00:00,16:00:00,02:00:00,Half Day
+1416,252,Em_118,Vikas Vishwakarma,Wed,23-04-2025,14:00:00,20:00:00,06:00:00,Half Day
+1417,253,Em_113,Aayushi Tiwari,Wed,23-04-2025,,,,
+1418,254,P_101,Manish,Thu,24-04-2025,10:00:00,20:40:00,10:40:00,Full Day
+1419,255,Em_101,Shruti Jain,Thu,24-04-2025,10:06:00,19:05:00,08:59:00,Full Day
+1420,256,Ac_101,HB Bhoundave,Thu,24-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1421,257,Em_114,Diya Jain,Thu,24-04-2025,10:30:00,19:35:00,09:05:00,Full Day
+1422,258,Em_115,Shoaib Adil khan,Thu,24-04-2025,10:35:00,17:15:00,06:40:00,Half Day
+1423,259,Em_108,Akhil Mishra,Thu,24-04-2025,10:40:00,20:05:00,09:25:00,Full Day
+1424,260,Em_112,Pragya Watti,Thu,24-04-2025,10:40:00,19:33:00,08:53:00,Half Day
+1425,261,Em_116,Anurag Nankani,Thu,24-04-2025,11:35:00,20:40:00,09:05:00,Full Day
+1426,262,Em_118,Vikas Vishwakarma,Thu,24-04-2025,14:00:00,20:00:00,06:00:00,Half Day
+1427,263,Em_113,Aayushi Tiwari,Thu,24-04-2025,,,,
+1428,264,Em_117,Abhishek Lingati,Thu,24-04-2025,,,,Leave
+1429,265,P_101,Manish,Fri,25-04-2025,10:00:00,20:48:00,10:48:00,Full Day
+1430,266,Em_101,Shruti Jain,Fri,25-04-2025,10:15:00,19:20:00,09:05:00,Full Day
+1431,267,Em_115,Shoaib Adil khan,Fri,25-04-2025,10:15:00,17:20:00,07:05:00,Full Day
+1432,268,Ac_101,HB Bhoundave,Fri,25-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1433,269,Em_114,Diya Jain,Fri,25-04-2025,10:20:00,19:32:00,09:12:00,Full Day
+1434,270,Em_112,Pragya Watti,Fri,25-04-2025,10:40:00,19:30:00,08:50:00,Half Day
+1435,271,Em_108,Akhil Mishra,Fri,25-04-2025,11:25:00,19:20:00,07:55:00,Half Day
+1436,272,Em_116,Anurag Nankani,Fri,25-04-2025,11:30:00,20:45:00,09:15:00,Full Day
+1437,273,Em_118,Vikas Vishwakarma,Fri,25-04-2025,13:50:00,19:50:00,06:00:00,Half Day
+1438,274,Em_117,Abhishek Lingati,Fri,25-04-2025,16:00:00,17:25:00,01:25:00,Half Day
+1439,275,Em_113,Aayushi Tiwari,Fri,25-04-2025,,,,
+1440,276,P_101,Manish,Sat,26-04-2025,10:00:00,19:40:00,09:40:00,Full Day
+1441,277,Em_101,Shruti Jain,Sat,26-04-2025,10:15:00,18:30:00,08:15:00,Half Day
+1442,278,Ac_101,HB Bhoundave,Sat,26-04-2025,10:15:00,15:00:00,04:45:00,Full Day
+1443,279,Em_108,Akhil Mishra,Sat,26-04-2025,10:30:00,19:29:00,08:59:00,Full Day
+1444,280,Em_114,Diya Jain,Sat,26-04-2025,10:35:00,19:28:00,08:53:00,Full Day
+1445,281,Em_112,Pragya Watti,Sat,26-04-2025,10:40:00,19:29:00,08:49:00,Half Day
+1446,282,Em_115,Shoaib Adil khan,Sat,26-04-2025,10:45:00,17:20:00,06:35:00,Half Day
+1447,283,Em_116,Anurag Nankani,Sat,26-04-2025,12:00:00,19:40:00,07:40:00,Half Day
+1448,284,Em_118,Vikas Vishwakarma,Sat,26-04-2025,13:55:00,19:30:00,05:35:00,Half Day
+1449,285,Em_113,Aayushi Tiwari,Sat,26-04-2025,,,,
+1450,286,Em_117,Abhishek Lingati,Sat,26-04-2025,,,,Leave
+1451,287,Em_101,Shruti Jain,Sun,27-04-2025,,,,Holiday
+1452,288,Em_114,Diya Jain,Sun,27-04-2025,,,,Holiday
+1453,289,Em_108,Akhil Mishra,Sun,27-04-2025,,,,Holiday
+1454,290,Em_112,Pragya Watti,Sun,27-04-2025,,,,Holiday
+1455,291,Em_113,Aayushi Tiwari,Sun,27-04-2025,,,,Holiday
+1456,292,Em_115,Shoaib Adil khan,Sun,27-04-2025,,,,Holiday
+1457,293,P_101,Manish,Sun,27-04-2025,,,,Holiday
+1458,294,Ac_101,HB Bhoundave,Sun,27-04-2025,,,,Holiday
+1459,295,Em_116,Anurag Nankani,Sun,27-04-2025,,,,Holiday
+1460,296,Em_117,Abhishek Lingati,Sun,27-04-2025,,,,Holiday
+1461,297,Em_118,Vikas Vishwakarma,Sun,27-04-2025,,,,Holiday
+1462,298,Ac_101,HB Bhoundave,Mon,28-04-2025,10:15:00,18:00:00,07:45:00,Full Day
+1463,299,Em_101,Shruti Jain,Mon,28-04-2025,10:20:00,20:20:00,10:00:00,Full Day
+1464,300,Em_114,Diya Jain,Mon,28-04-2025,10:20:00,21:23:00,11:03:00,Full Day
+1465,301,Em_108,Akhil Mishra,Mon,28-04-2025,10:40:00,21:20:00,10:40:00,Full Day
+1466,302,Em_112,Pragya Watti,Mon,28-04-2025,10:40:00,20:11:00,09:31:00,Full Day
+1467,303,Em_116,Anurag Nankani,Mon,28-04-2025,12:00:00,21:20:00,09:20:00,Full Day
+1468,304,Em_118,Vikas Vishwakarma,Mon,28-04-2025,14:00:00,20:25:00,06:25:00,Half Day
+1469,305,Em_113,Aayushi Tiwari,Mon,28-04-2025,,,,
+1470,306,Em_115,Shoaib Adil khan,Mon,28-04-2025,,,,Leave
+1471,307,P_101,Manish,Mon,28-04-2025,,,,Leave
+1472,308,Em_117,Abhishek Lingati,Mon,28-04-2025,,,,Leave
+1473,309,Em_101,Shruti Jain,Tue,29-04-2025,10:00:00,19:10:00,09:10:00,Full Day
+1474,310,Ac_101,HB Bhoundave,Tue,29-04-2025,10:05:00,18:00:00,07:55:00,Full Day
+1475,311,Em_114,Diya Jain,Tue,29-04-2025,10:30:00,18:38:00,08:08:00,Full Day
+1476,312,Em_115,Shoaib Adil khan,Tue,29-04-2025,10:30:00,17:15:00,06:45:00,Half Day
+1477,313,Em_108,Akhil Mishra,Tue,29-04-2025,10:55:00,20:00:00,09:05:00,Full Day
+1478,314,Em_118,Vikas Vishwakarma,Tue,29-04-2025,14:00:00,20:00:00,06:00:00,Half Day
+1479,315,Em_116,Anurag Nankani,Tue,29-04-2025,16:15:00,20:00:00,03:45:00,Half Day
+1480,316,Em_113,Aayushi Tiwari,Tue,29-04-2025,,,,
+1481,317,Em_112,Pragya Watti,Tue,29-04-2025,,,,Leave
+1482,318,P_101,Manish,Tue,29-04-2025,,,,Leave
+1483,319,Em_117,Abhishek Lingati,Tue,29-04-2025,,,,Leave
+1484,320,Em_114,Diya Jain,Wed,30-04-2025,10:05:00,19:26:00,09:21:00,Full Day
+1485,321,Em_101,Shruti Jain,Wed,30-04-2025,10:10:00,19:26:00,09:16:00,Full Day
+1486,322,Em_115,Shoaib Adil khan,Wed,30-04-2025,10:10:00,17:30:00,07:20:00,Full Day
+1487,323,Em_108,Akhil Mishra,Wed,30-04-2025,10:30:00,19:30:00,09:00:00,Full Day
+1488,324,Em_116,Anurag Nankani,Wed,30-04-2025,11:20:00,20:30:00,09:10:00,Full Day
+1489,325,Em_118,Vikas Vishwakarma,Wed,30-04-2025,14:00:00,19:30:00,05:30:00,Half Day
+1490,326,Em_113,Aayushi Tiwari,Wed,30-04-2025,,,,
+1491,327,Em_112,Pragya Watti,Wed,30-04-2025,,,,Leave
+1492,328,P_101,Manish,Wed,30-04-2025,,,,Leave
+1493,329,Ac_101,HB Bhoundave,Wed,30-04-2025,,,,Leave
+1494,330,Em_117,Abhishek Lingati,Wed,30-04-2025,,,,Leave
+1495,1,Ac101,HB Bhoundave,Thur,01-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1496,2,Em112,Pragya Watti,Thur,01-05-2025,10:30:00,19:10:00,08:40:00,Half Day
+1497,3,Em115,Shoaib Adil khan,Thur,01-05-2025,10:30:00,17:30:00,07:00:00,Full Day
+1498,4,Em114,Diya Jain,Thur,01-05-2025,10:50:00,19:47:00,08:57:00,Full Day
+1499,5,Em108,Akhil Mishra,Thur,01-05-2025,11:00:00,19:50:00,08:50:00,Full Day
+1500,6,Em116,Anurag Nankani,Thur,01-05-2025,11:30:00,19:50:00,08:20:00,Half Day
+1501,7,Em118,Vikas Vishwakarma,Thur,01-05-2025,14:00:00,20:00:00,06:00:00,Half Day
+1502,8,Em113,Aayushi Tiwari,Thur,01-05-2025,,,,
+1503,9,Em117,Abhishek Lingati,Thur,01-05-2025,,,,
+1504,10,Em119,Tina Panwar,Thur,01-05-2025,,,,
+1505,11,Em101,Shruti Jain,Thur,01-05-2025,,,,Leave
+1506,12,P101,Manish,Thur,01-05-2025,,,,Leave
+1507,13,P101,Manish,Fri,02-05-2025,10:00:00,20:35:00,10:35:00,Full Day
+1508,14,Ac101,HB Bhoundave,Fri,02-05-2025,10:05:00,12:45:00,02:40:00,Full Day
+1509,15,Em101,Shruti Jain,Fri,02-05-2025,10:10:00,19:22:00,09:12:00,Full Day
+1510,16,Em108,Akhil Mishra,Fri,02-05-2025,10:30:00,20:30:00,10:00:00,Full Day
+1511,17,Em112,Pragya Watti,Fri,02-05-2025,10:30:00,20:14:00,09:44:00,Full Day
+1512,18,Em114,Diya Jain,Fri,02-05-2025,10:50:00,19:22:00,08:32:00,Full Day
+1513,19,Em115,Shoaib Adil khan,Fri,02-05-2025,11:20:00,17:25:00,06:05:00,Half Day
+1514,20,Em116,Anurag Nankani,Fri,02-05-2025,11:25:00,20:30:00,09:05:00,Full Day
+1515,21,Em118,Vikas Vishwakarma,Fri,02-05-2025,14:00:00,20:00:00,06:00:00,Half Day
+1516,22,Em113,Aayushi Tiwari,Fri,02-05-2025,,,,
+1517,23,Em117,Abhishek Lingati,Fri,02-05-2025,,,,
+1518,24,Em119,Tina Panwar,Fri,02-05-2025,,,,
+1519,25,P101,Manish,Sat,03-05-2025,10:00:00,19:10:00,09:10:00,Full Day
+1520,26,Ac101,HB Bhoundave,Sat,03-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1521,27,Em101,Shruti Jain,Sat,03-05-2025,10:10:00,19:07:00,08:57:00,Full Day
+1522,28,Em112,Pragya Watti,Sat,03-05-2025,10:40:00,19:14:00,08:34:00,Half Day
+1523,29,Em114,Diya Jain,Sat,03-05-2025,10:50:00,19:15:00,08:25:00,Full Day
+1524,30,Em108,Akhil Mishra,Sat,03-05-2025,10:50:00,19:15:00,08:25:00,Half Day
+1525,31,Em116,Anurag Nankani,Sat,03-05-2025,11:30:00,19:00:00,07:30:00,Half Day
+1526,32,Em115,Shoaib Adil khan,Sat,03-05-2025,11:40:00,17:25:00,05:45:00,Half Day
+1527,33,Em118,Vikas Vishwakarma,Sat,03-05-2025,14:00:00,20:00:00,06:00:00,Half Day
+1528,34,Em113,Aayushi Tiwari,Sat,03-05-2025,,,,
+1529,35,Em117,Abhishek Lingati,Sat,03-05-2025,,,,
+1530,36,Em119,Tina Panwar,Sat,03-05-2025,,,,
+1531,37,Em101,Shruti Jain,Sun,04-05-2025,,,,Holiday
+1532,38,Em114,Diya Jain,Sun,04-05-2025,,,,Holiday
+1533,39,Em108,Akhil Mishra,Sun,04-05-2025,,,,Holiday
+1534,40,Em112,Pragya Watti,Sun,04-05-2025,,,,Holiday
+1535,41,Em113,Aayushi Tiwari,Sun,04-05-2025,,,,Holiday
+1536,42,Em115,Shoaib Adil khan,Sun,04-05-2025,,,,Holiday
+1537,43,P101,Manish,Sun,04-05-2025,,,,Holiday
+1538,44,Ac101,HB Bhoundave,Sun,04-05-2025,,,,Holiday
+1539,45,Em116,Anurag Nankani,Sun,04-05-2025,,,,Holiday
+1540,46,Em117,Abhishek Lingati,Sun,04-05-2025,,,,Holiday
+1541,47,Em118,Vikas Vishwakarma,Sun,04-05-2025,,,,Holiday
+1542,48,Em119,Tina Panwar,Sun,04-05-2025,,,,Holiday
+1543,49,P101,Manish,Mon,05-05-2025,10:00:00,20:30:00,10:30:00,Full Day
+1544,50,Ac101,HB Bhoundave,Mon,05-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1545,51,Em101,Shruti Jain,Mon,05-05-2025,10:10:00,19:15:00,09:05:00,Full Day
+1546,52,Em114,Diya Jain,Mon,05-05-2025,10:45:00,19:46:00,09:01:00,Full Day
+1547,53,Em108,Akhil Mishra,Mon,05-05-2025,11:00:00,20:25:00,09:25:00,Full Day
+1548,54,Em116,Anurag Nankani,Mon,05-05-2025,11:30:00,20:30:00,09:00:00,Full Day
+1549,55,Em118,Vikas Vishwakarma,Mon,05-05-2025,15:00:00,20:23:00,05:23:00,Half Day
+1550,56,Em113,Aayushi Tiwari,Mon,05-05-2025,,,,
+1551,57,Em117,Abhishek Lingati,Mon,05-05-2025,,,,
+1552,58,Em119,Tina Panwar,Mon,05-05-2025,,,,
+1553,59,Em112,Pragya Watti,Mon,05-05-2025,,,,Leave
+1554,60,Em115,Shoaib Adil khan,Mon,05-05-2025,,,,Leave
+1555,61,P101,Manish,Tue,06-05-2025,10:00:00,20:36:00,10:36:00,Full Day
+1556,62,Ac101,HB Bhoundave,Tue,06-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1557,63,Em101,Shruti Jain,Tue,06-05-2025,10:11:00,19:41:00,09:30:00,Full Day
+1558,64,Em115,Shoaib Adil khan,Tue,06-05-2025,10:15:00,17:20:00,07:05:00,Full Day
+1559,65,Em114,Diya Jain,Tue,06-05-2025,10:40:00,19:17:00,08:37:00,Full Day
+1560,66,Em108,Akhil Mishra,Tue,06-05-2025,11:00:00,20:00:00,09:00:00,Full Day
+1561,67,Em116,Anurag Nankani,Tue,06-05-2025,12:40:00,20:30:00,07:50:00,Half Day
+1562,68,Em113,Aayushi Tiwari,Tue,06-05-2025,,,,
+1563,69,Em117,Abhishek Lingati,Tue,06-05-2025,,,,
+1564,70,Em118,Vikas Vishwakarma,Tue,06-05-2025,,,,
+1565,71,Em119,Tina Panwar,Tue,06-05-2025,,,,
+1566,72,Em112,Pragya Watti,Tue,06-05-2025,,,,Leave
+1567,73,P101,Manish,Wed,07-05-2025,10:00:00,20:48:00,10:48:00,Full Day
+1568,74,Ac101,HB Bhoundave,Wed,07-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1569,75,Em101,Shruti Jain,Wed,07-05-2025,10:25:00,19:50:00,09:25:00,Full Day
+1570,76,Em115,Shoaib Adil khan,Wed,07-05-2025,10:30:00,17:20:00,06:50:00,Half Day
+1571,77,Em112,Pragya Watti,Wed,07-05-2025,10:40:00,20:05:00,09:25:00,Full Day
+1572,78,Em108,Akhil Mishra,Wed,07-05-2025,10:50:00,20:00:00,09:10:00,Full Day
+1573,79,Em114,Diya Jain,Wed,07-05-2025,10:59:00,20:00:00,09:01:00,Full Day
+1574,80,Em116,Anurag Nankani,Wed,07-05-2025,13:00:00,21:15:00,08:15:00,Half Day
+1575,81,Em113,Aayushi Tiwari,Wed,07-05-2025,,,,
+1576,82,Em117,Abhishek Lingati,Wed,07-05-2025,,,,
+1577,83,Em118,Vikas Vishwakarma,Wed,07-05-2025,,,,
+1578,84,Em119,Tina Panwar,Wed,07-05-2025,,,,
+1579,85,P101,Manish,Thu,08-05-2025,10:00:00,20:10:00,10:10:00,Full Day
+1580,86,Ac101,HB Bhoundave,Thu,08-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1581,87,Em115,Shoaib Adil khan,Thu,08-05-2025,10:25:00,17:25:00,07:00:00,Full Day
+1582,88,Em114,Diya Jain,Thu,08-05-2025,10:30:00,20:00:00,09:30:00,Full Day
+1583,89,Em108,Akhil Mishra,Thu,08-05-2025,10:30:00,20:00:00,09:30:00,Full Day
+1584,90,Em101,Shruti Jain,Thu,08-05-2025,11:00:00,19:56:00,08:56:00,Full Day
+1585,91,Em116,Anurag Nankani,Thu,08-05-2025,12:15:00,20:10:00,07:55:00,Half Day
+1586,92,Em113,Aayushi Tiwari,Thu,08-05-2025,,,,
+1587,93,Em117,Abhishek Lingati,Thu,08-05-2025,,,,
+1588,94,Em118,Vikas Vishwakarma,Thu,08-05-2025,,,,
+1589,95,Em119,Tina Panwar,Thu,08-05-2025,,,,
+1590,96,Em112,Pragya Watti,Thu,08-05-2025,,,,Leave
+1591,97,P101,Manish,Fri,09-05-2025,10:00:00,20:10:00,10:10:00,Full Day
+1592,98,Ac101,HB Bhoundave,Fri,09-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1593,99,Em101,Shruti Jain,Fri,09-05-2025,10:11:00,19:05:00,08:54:00,Full Day
+1594,100,Em115,Shoaib Adil khan,Fri,09-05-2025,10:20:00,17:20:00,07:00:00,Full Day
+1595,101,Em114,Diya Jain,Fri,09-05-2025,10:48:00,19:45:00,08:57:00,Full Day
+1596,102,Em108,Akhil Mishra,Fri,09-05-2025,10:50:00,20:00:00,09:10:00,Full Day
+1597,103,Em116,Anurag Nankani,Fri,09-05-2025,11:15:00,20:10:00,08:55:00,Half Day
+1598,104,Em112,Pragya Watti,Fri,09-05-2025,13:30:00,19:40:00,06:10:00,Half Day
+1599,105,Em113,Aayushi Tiwari,Fri,09-05-2025,,,,
+1600,106,Em117,Abhishek Lingati,Fri,09-05-2025,,,,
+1601,107,Em118,Vikas Vishwakarma,Fri,09-05-2025,,,,
+1602,108,Em119,Tina Panwar,Fri,09-05-2025,,,,
+1603,109,Em101,Shruti Jain,Sat,10-05-2025,10:00:00,18:30:00,08:30:00,Full Day
+1604,110,P101,Manish,Sat,10-05-2025,10:00:00,19:00:00,09:00:00,Full Day
+1605,111,Ac101,HB Bhoundave,Sat,10-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1606,112,Em115,Shoaib Adil khan,Sat,10-05-2025,10:20:00,17:20:00,07:00:00,Full Day
+1607,113,Em114,Diya Jain,Sat,10-05-2025,10:45:00,18:30:00,07:45:00,Half Day
+1608,114,Em108,Akhil Mishra,Sat,10-05-2025,10:50:00,18:30:00,07:40:00,Half Day
+1609,115,Em116,Anurag Nankani,Sat,10-05-2025,11:50:00,19:00:00,07:10:00,Half Day
+1610,116,Em118,Vikas Vishwakarma,Sat,10-05-2025,14:00:00,18:30:00,04:30:00,Half Day
+1611,117,Em113,Aayushi Tiwari,Sat,10-05-2025,,,,
+1612,118,Em117,Abhishek Lingati,Sat,10-05-2025,,,,
+1613,119,Em119,Tina Panwar,Sat,10-05-2025,,,,
+1614,120,Em112,Pragya Watti,Sat,10-05-2025,,,,Leave
+1615,121,Em101,Shruti Jain,Sun,11-05-2025,,,,Holiday
+1616,122,Em114,Diya Jain,Sun,11-05-2025,,,,Holiday
+1617,123,Em108,Akhil Mishra,Sun,11-05-2025,,,,Holiday
+1618,124,Em112,Pragya Watti,Sun,11-05-2025,,,,Holiday
+1619,125,Em113,Aayushi Tiwari,Sun,11-05-2025,,,,Holiday
+1620,126,Em115,Shoaib Adil khan,Sun,11-05-2025,,,,Holiday
+1621,127,P101,Manish,Sun,11-05-2025,,,,Holiday
+1622,128,Ac101,HB Bhoundave,Sun,11-05-2025,,,,Holiday
+1623,129,Em116,Anurag Nankani,Sun,11-05-2025,,,,Holiday
+1624,130,Em117,Abhishek Lingati,Sun,11-05-2025,,,,Holiday
+1625,131,Em118,Vikas Vishwakarma,Sun,11-05-2025,,,,Holiday
+1626,132,Em119,Tina Panwar,Sun,11-05-2025,,,,Holiday
+1627,133,P101,Manish,Mon,12-05-2025,08:00:00,20:30:00,12:30:00,Full Day
+1628,134,Em101,Shruti Jain,Mon,12-05-2025,10:00:00,19:47:00,09:47:00,Full Day
+1629,135,Ac101,HB Bhoundave,Mon,12-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1630,136,Em112,Pragya Watti,Mon,12-05-2025,10:40:00,19:55:00,09:15:00,Full Day
+1631,137,Em114,Diya Jain,Mon,12-05-2025,10:45:00,20:00:00,09:15:00,Full Day
+1632,138,Em116,Anurag Nankani,Mon,12-05-2025,11:55:00,20:30:00,08:35:00,Half Day
+1633,139,Em108,Akhil Mishra,Mon,12-05-2025,14:00:00,20:03:00,06:03:00,Half Day
+1634,140,Em113,Aayushi Tiwari,Mon,12-05-2025,,,,
+1635,141,Em117,Abhishek Lingati,Mon,12-05-2025,,,,
+1636,142,Em118,Vikas Vishwakarma,Mon,12-05-2025,,,,
+1637,143,Em119,Tina Panwar,Mon,12-05-2025,,,,
+1638,144,Em115,Shoaib Adil khan,Mon,12-05-2025,,,,Leave
+1639,145,Em101,Shruti Jain,Tue,13-05-2025,08:30:00,23:30:00,15:00:00,Full Day
+1640,146,P101,Manish,Tue,13-05-2025,10:00:00,22:30:00,12:30:00,Full Day
+1641,147,Ac101,HB Bhoundave,Tue,13-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1642,148,Em115,Shoaib Adil khan,Tue,13-05-2025,10:15:00,17:30:00,07:15:00,Full Day
+1643,149,Em114,Diya Jain,Tue,13-05-2025,10:55:00,19:40:00,08:45:00,Full Day
+1644,150,Em108,Akhil Mishra,Tue,13-05-2025,11:00:00,19:40:00,08:40:00,Full Day
+1645,151,Em112,Pragya Watti,Tue,13-05-2025,11:05:00,19:30:00,08:25:00,Half Day
+1646,152,Em113,Aayushi Tiwari,Tue,13-05-2025,,,,
+1647,153,Em117,Abhishek Lingati,Tue,13-05-2025,,,,
+1648,154,Em118,Vikas Vishwakarma,Tue,13-05-2025,,,,
+1649,155,Em119,Tina Panwar,Tue,13-05-2025,,,,
+1650,156,Em116,Anurag Nankani,Tue,13-05-2025,,,,Leave
+1651,157,P101,Manish,Wed,14-05-2025,08:00:00,20:30:00,12:30:00,Full Day
+1652,158,Em108,Akhil Mishra,Wed,14-05-2025,09:30:00,20:00:00,10:30:00,Full Day
+1653,159,Em101,Shruti Jain,Wed,14-05-2025,10:00:00,19:20:00,09:20:00,Full Day
+1654,160,Ac101,HB Bhoundave,Wed,14-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1655,161,Em114,Diya Jain,Wed,14-05-2025,10:30:00,19:41:00,09:11:00,Full Day
+1656,162,Em115,Shoaib Adil khan,Wed,14-05-2025,10:35:00,17:25:00,06:50:00,Half Day
+1657,163,Em112,Pragya Watti,Wed,14-05-2025,10:45:00,19:52:00,09:07:00,Full Day
+1658,164,Em113,Aayushi Tiwari,Wed,14-05-2025,,,,
+1659,165,Em117,Abhishek Lingati,Wed,14-05-2025,,,,
+1660,166,Em118,Vikas Vishwakarma,Wed,14-05-2025,,,,
+1661,167,Em119,Tina Panwar,Wed,14-05-2025,,,,
+1662,168,Em116,Anurag Nankani,Wed,14-05-2025,,,,Leave
+1663,169,Em101,Shruti Jain,Thu,15-05-2025,08:12:00,18:30:00,10:18:00,Full Day
+1664,170,P101,Manish,Thu,15-05-2025,10:00:00,20:30:00,10:30:00,Full Day
+1665,171,Ac101,HB Bhoundave,Thu,15-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1666,172,Em115,Shoaib Adil khan,Thu,15-05-2025,10:30:00,17:20:00,06:50:00,Half Day
+1667,173,Em108,Akhil Mishra,Thu,15-05-2025,10:55:00,20:00:00,09:05:00,Full Day
+1668,174,Em112,Pragya Watti,Thu,15-05-2025,11:00:00,19:40:00,08:40:00,Half Day
+1669,175,Em116,Anurag Nankani,Thu,15-05-2025,12:10:00,20:30:00,08:20:00,Half Day
+1670,176,Em114,Diya Jain,Thu,15-05-2025,13:15:00,19:46:00,06:31:00,Half Day
+1671,177,Em113,Aayushi Tiwari,Thu,15-05-2025,,,,
+1672,178,Em117,Abhishek Lingati,Thu,15-05-2025,,,,
+1673,179,Em118,Vikas Vishwakarma,Thu,15-05-2025,,,,
+1674,180,Em119,Tina Panwar,Thu,15-05-2025,,,,
+1675,181,Em101,Shruti Jain,Fri,16-05-2025,09:15:00,18:47:00,09:32:00,Full Day
+1676,182,P101,Manish,Fri,16-05-2025,10:00:00,20:30:00,10:30:00,Full Day
+1677,183,Em115,Shoaib Adil khan,Fri,16-05-2025,10:35:00,17:30:00,06:55:00,Half Day
+1678,184,Em112,Pragya Watti,Fri,16-05-2025,10:40:00,19:47:00,09:07:00,Full Day
+1679,185,Em114,Diya Jain,Fri,16-05-2025,10:52:00,19:47:00,08:55:00,Full Day
+1680,186,Em108,Akhil Mishra,Fri,16-05-2025,11:00:00,20:55:00,09:55:00,Full Day
+1681,187,Em116,Anurag Nankani,Fri,16-05-2025,11:40:00,20:50:00,09:10:00,Full Day
+1682,188,Em113,Aayushi Tiwari,Fri,16-05-2025,,,,
+1683,189,Em117,Abhishek Lingati,Fri,16-05-2025,,,,
+1684,190,Em119,Tina Panwar,Fri,16-05-2025,,,,
+1685,191,Ac101,HB Bhoundave,Fri,16-05-2025,,,,Leave
+1686,192,Em118,Vikas Vishwakarma,Fri,16-05-2025,,,,Leave
+1687,193,P101,Manish,Sat,17-05-2025,10:00:00,20:35:00,10:35:00,Full Day
+1688,194,Ac101,HB Bhoundave,Sat,17-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1689,195,Em101,Shruti Jain,Sat,17-05-2025,10:15:00,17:30:00,07:15:00,Half Day
+1690,196,Em115,Shoaib Adil khan,Sat,17-05-2025,10:30:00,17:30:00,07:00:00,Full Day
+1691,197,Em108,Akhil Mishra,Sat,17-05-2025,10:55:00,19:04:00,08:09:00,Half Day
+1692,198,Em114,Diya Jain,Sat,17-05-2025,10:59:00,20:25:00,09:26:00,Full Day
+1693,199,Em112,Pragya Watti,Sat,17-05-2025,10:59:00,19:53:00,08:54:00,Half Day
+1694,200,Em116,Anurag Nankani,Sat,17-05-2025,12:30:00,20:30:00,08:00:00,Half Day
+1695,201,Em113,Aayushi Tiwari,Sat,17-05-2025,,,,
+1696,202,Em117,Abhishek Lingati,Sat,17-05-2025,,,,
+1697,203,Em118,Vikas Vishwakarma,Sat,17-05-2025,,,,
+1698,204,Em119,Tina Panwar,Sat,17-05-2025,,,,
+1699,205,Em101,Shruti Jain,Sun,18-05-2025,,,,Holiday
+1700,206,Em114,Diya Jain,Sun,18-05-2025,,,,Holiday
+1701,207,Em108,Akhil Mishra,Sun,18-05-2025,,,,Holiday
+1702,208,Em112,Pragya Watti,Sun,18-05-2025,,,,Holiday
+1703,209,Em113,Aayushi Tiwari,Sun,18-05-2025,,,,Holiday
+1704,210,Em115,Shoaib Adil khan,Sun,18-05-2025,,,,Holiday
+1705,211,P101,Manish,Sun,18-05-2025,,,,Holiday
+1706,212,Ac101,HB Bhoundave,Sun,18-05-2025,,,,Holiday
+1707,213,Em116,Anurag Nankani,Sun,18-05-2025,,,,Holiday
+1708,214,Em117,Abhishek Lingati,Sun,18-05-2025,,,,Holiday
+1709,215,Em118,Vikas Vishwakarma,Sun,18-05-2025,,,,Holiday
+1710,216,Em119,Tina Panwar,Sun,18-05-2025,,,,Holiday
+1711,217,P101,Manish,Mon,19-05-2025,08:00:00,20:25:00,12:25:00,Full Day
+1712,218,Em101,Shruti Jain,Mon,19-05-2025,09:43:00,18:40:00,08:57:00,Full Day
+1713,219,Ac101,HB Bhoundave,Mon,19-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1714,220,Em108,Akhil Mishra,Mon,19-05-2025,10:30:00,19:20:00,08:50:00,Full Day
+1715,221,Em115,Shoaib Adil khan,Mon,19-05-2025,10:40:00,17:25:00,06:45:00,Half Day
+1716,222,Em114,Diya Jain,Mon,19-05-2025,10:50:00,19:20:00,08:30:00,Full Day
+1717,223,Em112,Pragya Watti,Mon,19-05-2025,10:55:00,19:40:00,08:45:00,Half Day
+1718,224,Em116,Anurag Nankani,Mon,19-05-2025,11:25:00,20:30:00,09:05:00,Full Day
+1719,225,Em113,Aayushi Tiwari,Mon,19-05-2025,,,,
+1720,226,Em117,Abhishek Lingati,Mon,19-05-2025,,,,
+1721,227,Em118,Vikas Vishwakarma,Mon,19-05-2025,,,,
+1722,228,Em119,Tina Panwar,Mon,19-05-2025,,,,
+1723,229,P101,Manish,Tue,20-05-2025,08:00:00,20:49:00,12:49:00,Full Day
+1724,230,Em101,Shruti Jain,Tue,20-05-2025,08:16:00,17:30:00,09:14:00,Full Day
+1725,231,Ac101,HB Bhoundave,Tue,20-05-2025,10:00:00,12:45:00,02:45:00,Full Day
+1726,232,Em115,Shoaib Adil khan,Tue,20-05-2025,10:40:00,17:20:00,06:40:00,Half Day
+1727,233,Em114,Diya Jain,Tue,20-05-2025,10:50:00,19:43:00,08:53:00,Full Day
+1728,234,Em108,Akhil Mishra,Tue,20-05-2025,10:55:00,20:44:00,09:49:00,Full Day
+1729,235,Em112,Pragya Watti,Tue,20-05-2025,10:55:00,19:49:00,08:54:00,Half Day
+1730,236,Em116,Anurag Nankani,Tue,20-05-2025,12:10:00,21:00:00,08:50:00,Half Day
+1731,237,Em113,Aayushi Tiwari,Tue,20-05-2025,,,,
+1732,238,Em117,Abhishek Lingati,Tue,20-05-2025,,,,
+1733,239,Em118,Vikas Vishwakarma,Tue,20-05-2025,,,,
+1734,240,Em119,Tina Panwar,Tue,20-05-2025,,,,
+1735,241,P101,Manish,Wed,21-05-2025,08:30:00,,14:28:00,Full Day
+1736,242,Em108,Akhil Mishra,Wed,21-05-2025,09:30:00,,13:28:00,Full Day
+1737,243,Em114,Diya Jain,Wed,21-05-2025,10:45:00,,12:13:00,Full Day
+1738,244,Em101,Shruti Jain,Wed,21-05-2025,,,,
+1739,245,Em112,Pragya Watti,Wed,21-05-2025,,,,
+1740,246,Em113,Aayushi Tiwari,Wed,21-05-2025,,,,
+1741,247,Em115,Shoaib Adil khan,Wed,21-05-2025,,,,
+1742,248,Ac101,HB Bhoundave,Wed,21-05-2025,,,,
+1743,249,Em116,Anurag Nankani,Wed,21-05-2025,,,,
+1744,250,Em117,Abhishek Lingati,Wed,21-05-2025,,,,
+1745,251,Em118,Vikas Vishwakarma,Wed,21-05-2025,,,,
+1746,252,Em119,Tina Panwar,Wed,21-05-2025,,,,
+1747,253,Em101,Shruti Jain,Thu,22-05-2025,,,,
+1748,254,Em114,Diya Jain,Thu,22-05-2025,,,,
+1749,255,Em108,Akhil Mishra,Thu,22-05-2025,,,,
+1750,256,Em112,Pragya Watti,Thu,22-05-2025,,,,
+1751,257,Em113,Aayushi Tiwari,Thu,22-05-2025,,,,
+1752,258,Em115,Shoaib Adil khan,Thu,22-05-2025,,,,
+1753,259,P101,Manish,Thu,22-05-2025,,,,
+1754,260,Ac101,HB Bhoundave,Thu,22-05-2025,,,,
+1755,261,Em116,Anurag Nankani,Thu,22-05-2025,,,,
+1756,262,Em117,Abhishek Lingati,Thu,22-05-2025,,,,
+1757,263,Em118,Vikas Vishwakarma,Thu,22-05-2025,,,,
+1758,264,Em119,Tina Panwar,Thu,22-05-2025,,,,
+1759,265,Em101,Shruti Jain,Fri,23-05-2025,,,,
+1760,266,Em114,Diya Jain,Fri,23-05-2025,,,,
+1761,267,Em108,Akhil Mishra,Fri,23-05-2025,,,,
+1762,268,Em112,Pragya Watti,Fri,23-05-2025,,,,
+1763,269,Em113,Aayushi Tiwari,Fri,23-05-2025,,,,
+1764,270,Em115,Shoaib Adil khan,Fri,23-05-2025,,,,
+1765,271,P101,Manish,Fri,23-05-2025,,,,
+1766,272,Ac101,HB Bhoundave,Fri,23-05-2025,,,,
+1767,273,Em116,Anurag Nankani,Fri,23-05-2025,,,,
+1768,274,Em117,Abhishek Lingati,Fri,23-05-2025,,,,
+1769,275,Em118,Vikas Vishwakarma,Fri,23-05-2025,,,,
+1770,276,Em119,Tina Panwar,Fri,23-05-2025,,,,
+1771,277,Em101,Shruti Jain,Sat,24-05-2025,,,,
+1772,278,Em114,Diya Jain,Sat,24-05-2025,,,,
+1773,279,Em108,Akhil Mishra,Sat,24-05-2025,,,,
+1774,280,Em112,Pragya Watti,Sat,24-05-2025,,,,
+1775,281,Em113,Aayushi Tiwari,Sat,24-05-2025,,,,
+1776,282,Em115,Shoaib Adil khan,Sat,24-05-2025,,,,
+1777,283,P101,Manish,Sat,24-05-2025,,,,
+1778,284,Ac101,HB Bhoundave,Sat,24-05-2025,,,,
+1779,285,Em116,Anurag Nankani,Sat,24-05-2025,,,,
+1780,286,Em117,Abhishek Lingati,Sat,24-05-2025,,,,
+1781,287,Em118,Vikas Vishwakarma,Sat,24-05-2025,,,,
+1782,288,Em119,Tina Panwar,Sat,24-05-2025,,,,
+1783,289,Em101,Shruti Jain,Sun,25-05-2025,,,,Holiday
+1784,290,Em114,Diya Jain,Sun,25-05-2025,,,,Holiday
+1785,291,Em108,Akhil Mishra,Sun,25-05-2025,,,,Holiday
+1786,292,Em112,Pragya Watti,Sun,25-05-2025,,,,Holiday
+1787,293,Em113,Aayushi Tiwari,Sun,25-05-2025,,,,Holiday
+1788,294,Em115,Shoaib Adil khan,Sun,25-05-2025,,,,Holiday
+1789,295,P101,Manish,Sun,25-05-2025,,,,Holiday
+1790,296,Ac101,HB Bhoundave,Sun,25-05-2025,,,,Holiday
+1791,297,Em116,Anurag Nankani,Sun,25-05-2025,,,,Holiday
+1792,298,Em117,Abhishek Lingati,Sun,25-05-2025,,,,Holiday
+1793,299,Em118,Vikas Vishwakarma,Sun,25-05-2025,,,,Holiday
+1794,300,Em119,Tina Panwar,Sun,25-05-2025,,,,Holiday
+1795,301,Em101,Shruti Jain,Mon,26-05-2025,,,,
+1796,302,Em114,Diya Jain,Mon,26-05-2025,,,,
+1797,303,Em108,Akhil Mishra,Mon,26-05-2025,,,,
+1798,304,Em112,Pragya Watti,Mon,26-05-2025,,,,
+1799,305,Em113,Aayushi Tiwari,Mon,26-05-2025,,,,
+1800,306,Em115,Shoaib Adil khan,Mon,26-05-2025,,,,
+1801,307,P101,Manish,Mon,26-05-2025,,,,
+1802,308,Ac101,HB Bhoundave,Mon,26-05-2025,,,,
+1803,309,Em116,Anurag Nankani,Mon,26-05-2025,,,,
+1804,310,Em117,Abhishek Lingati,Mon,26-05-2025,,,,
+1805,311,Em118,Vikas Vishwakarma,Mon,26-05-2025,,,,
+1806,312,Em119,Tina Panwar,Mon,26-05-2025,,,,
+1807,313,Em101,Shruti Jain,Tue,27-05-2025,,,,
+1808,314,Em114,Diya Jain,Tue,27-05-2025,,,,
+1809,315,Em108,Akhil Mishra,Tue,27-05-2025,,,,
+1810,316,Em112,Pragya Watti,Tue,27-05-2025,,,,
+1811,317,Em113,Aayushi Tiwari,Tue,27-05-2025,,,,
+1812,318,Em115,Shoaib Adil khan,Tue,27-05-2025,,,,
+1813,319,P101,Manish,Tue,27-05-2025,,,,
+1814,320,Ac101,HB Bhoundave,Tue,27-05-2025,,,,
+1815,321,Em116,Anurag Nankani,Tue,27-05-2025,,,,
+1816,322,Em117,Abhishek Lingati,Tue,27-05-2025,,,,
+1817,323,Em118,Vikas Vishwakarma,Tue,27-05-2025,,,,
+1818,324,Em119,Tina Panwar,Tue,27-05-2025,,,,
+1819,325,Em101,Shruti Jain,Wed,28-05-2025,,,,
+1820,326,Em114,Diya Jain,Wed,28-05-2025,,,,
+1821,327,Em108,Akhil Mishra,Wed,28-05-2025,,,,
+1822,328,Em112,Pragya Watti,Wed,28-05-2025,,,,
+1823,329,Em113,Aayushi Tiwari,Wed,28-05-2025,,,,
+1824,330,Em115,Shoaib Adil khan,Wed,28-05-2025,,,,
+1825,331,P101,Manish,Wed,28-05-2025,,,,
+1826,332,Ac101,HB Bhoundave,Wed,28-05-2025,,,,
+1827,333,Em116,Anurag Nankani,Wed,28-05-2025,,,,
+1828,334,Em117,Abhishek Lingati,Wed,28-05-2025,,,,
+1829,335,Em118,Vikas Vishwakarma,Wed,28-05-2025,,,,
+1830,336,Em119,Tina Panwar,Wed,28-05-2025,,,,
+1831,337,Em101,Shruti Jain,Thu,29-05-2025,,,,
+1832,338,Em114,Diya Jain,Thu,29-05-2025,,,,
+1833,339,Em108,Akhil Mishra,Thu,29-05-2025,,,,
+1834,340,Em112,Pragya Watti,Thu,29-05-2025,,,,
+1835,341,Em113,Aayushi Tiwari,Thu,29-05-2025,,,,
+1836,342,Em115,Shoaib Adil khan,Thu,29-05-2025,,,,
+1837,343,P101,Manish,Thu,29-05-2025,,,,
+1838,344,Ac101,HB Bhoundave,Thu,29-05-2025,,,,
+1839,345,Em116,Anurag Nankani,Thu,29-05-2025,,,,
+1840,346,Em117,Abhishek Lingati,Thu,29-05-2025,,,,
+1841,347,Em118,Vikas Vishwakarma,Thu,29-05-2025,,,,
+1842,348,Em119,Tina Panwar,Thu,29-05-2025,,,,
+1843,349,Em101,Shruti Jain,Fri,30-05-2025,,,,
+1844,350,Em114,Diya Jain,Fri,30-05-2025,,,,
+1845,351,Em108,Akhil Mishra,Fri,30-05-2025,,,,
+1846,352,Em112,Pragya Watti,Fri,30-05-2025,,,,
+1847,353,Em113,Aayushi Tiwari,Fri,30-05-2025,,,,
+1848,354,Em115,Shoaib Adil khan,Fri,30-05-2025,,,,
+1849,355,P101,Manish,Fri,30-05-2025,,,,
+1850,356,Ac101,HB Bhoundave,Fri,30-05-2025,,,,
+1851,357,Em116,Anurag Nankani,Fri,30-05-2025,,,,
+1852,358,Em117,Abhishek Lingati,Fri,30-05-2025,,,,
+1853,359,Em118,Vikas Vishwakarma,Fri,30-05-2025,,,,
+1854,360,Em119,Tina Panwar,Fri,30-05-2025,,,,
+1855,361,Em101,Shruti Jain,Sat,31-05-2025,,,,
+1856,362,Em114,Diya Jain,Sat,31-05-2025,,,,
+1857,363,Em108,Akhil Mishra,Sat,31-05-2025,,,,
+1858,364,Em112,Pragya Watti,Sat,31-05-2025,,,,
+1859,365,Em113,Aayushi Tiwari,Sat,31-05-2025,,,,
+1860,366,Em115,Shoaib Adil khan,Sat,31-05-2025,,,,
+1861,367,P101,Manish,Sat,31-05-2025,,,,
+1862,368,Ac101,HB Bhoundave,Sat,31-05-2025,,,,
+1863,369,Em116,Anurag Nankani,Sat,31-05-2025,,,,
+1864,370,Em117,Abhishek Lingati,Sat,31-05-2025,,,,
+1865,371,Em118,Vikas Vishwakarma,Sat,31-05-2025,,,,
+1866,372,Em119,Tina Panwar,Sat,31-05-2025,,,,
